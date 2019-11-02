@@ -6372,3 +6372,4 @@ Script Stack (0 frames):
 [2019.11.02-14.16.59:532][297]SourceControl:  3 files changed, 0 insertions(+), 0 deletions(-)
 [2019.11.02-14.16.59:537][297]SourceControl: Commited [master e13b450] commit1.
 [2019.11.02-14.18.12:252][367]LogEditorViewport: Clicking Background
+[2019.11.02-14.19.58:768][879]LogSlate: FSceneViewport::OnFocusLost() reason 5
