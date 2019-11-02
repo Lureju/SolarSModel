@@ -6348,3 +6348,27 @@ Script Stack (0 frames):
 [2019.11.02-14.02.25:043][295]LogWindows: Warning: CreateProc failed: Отказано в доступе. (0x00000005)
 [2019.11.02-14.02.25:043][295]LogWindows: Warning: URL: C:/Users/Миша.Johnvk-PC/UE4/ version
 [2019.11.02-14.07.17:869][666]LogSlate: Window 'Source Control Login' being destroyed
+[2019.11.02-14.16.01:471][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   6.91ms
+[2019.11.02-14.16.03:569][ 40]LogSlate: Window 'Save Content' being destroyed
+[2019.11.02-14.16.03:660][ 40]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default" FILE="D:/Project/ellipse1/Content/StarterContent/Maps/Minimal_Default.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.11.02-14.16.03:722][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2019.11.02-14.16.04:168][ 40]LogSavePackage: Moving 'D:/Project/ellipse1/Saved/Minimal_Default275B2EF0489984EE3E72F89F4759FAF0.tmp' to 'D:/Project/ellipse1/Content/StarterContent/Maps/Minimal_Default.umap'
+[2019.11.02-14.16.04:189][ 40]LogFileHelpers: Saving map 'Minimal_Default' took 0.530
+[2019.11.02-14.16.24:874][383]BlueprintLog: New page: Compile mainmenuUI
+[2019.11.02-14.16.24:948][383]LogUObjectHash: Compacting FUObjectHashTables data took   7.48ms
+[2019.11.02-14.16.26:335][533]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu/mainmenuUI" FILE="D:/Project/ellipse1/Content/MainMenu/mainmenuUI.uasset" SILENT=true
+[2019.11.02-14.16.26:354][533]LogSavePackage: Moving 'D:/Project/ellipse1/Saved/mainmenuUI5437D74A4CE899FC2A17A5A4DB686A01.tmp' to 'D:/Project/ellipse1/Content/MainMenu/mainmenuUI.uasset'
+[2019.11.02-14.16.35:919][626]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default" FILE="D:/Project/ellipse1/Content/StarterContent/Maps/Minimal_Default.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.11.02-14.16.35:979][626]LogUObjectHash: Compacting FUObjectHashTables data took   7.55ms
+[2019.11.02-14.16.36:429][626]LogSavePackage: Moving 'D:/Project/ellipse1/Saved/Minimal_DefaultE7B64FD746310001F9F8278452C42883.tmp' to 'D:/Project/ellipse1/Content/StarterContent/Maps/Minimal_Default.umap'
+[2019.11.02-14.16.36:513][626]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_BuiltData" FILE="D:/Project/ellipse1/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
+[2019.11.02-14.16.36:554][626]LogSavePackage: Moving 'D:/Project/ellipse1/Saved/Minimal_Default_BuiltDataA568E542488DB24AC97D21BF360160B1.tmp' to 'D:/Project/ellipse1/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2019.11.02-14.16.40:671][ 83]SourceControl: fatal: C:/Users/Миша.Johnvk-PC/UE4/UE_4.23/Engine/Content: 'C:/Users/Миша.Johnvk-PC/UE4/UE_4.23/Engine/Content' is outside repository
+[2019.11.02-14.16.55:116][ 83]LogSlate: Window 'Submit Files' being destroyed
+[2019.11.02-14.16.57:143][297]SourceControl: fatal: C:/Users/Миша.Johnvk-PC/UE4/UE_4.23/Engine/Content: 'C:/Users/Миша.Johnvk-PC/UE4/UE_4.23/Engine/Content' is outside repository
+[2019.11.02-14.16.58:940][297]LogSlate: Window 'Submit Files' being destroyed
+[2019.11.02-14.16.59:448][297]LogSourceControl: commit successful: [master e13b450] commit1
+[2019.11.02-14.16.59:532][297]SourceControl: [master e13b450] commit1
+[2019.11.02-14.16.59:532][297]SourceControl:  3 files changed, 0 insertions(+), 0 deletions(-)
+[2019.11.02-14.16.59:537][297]SourceControl: Commited [master e13b450] commit1.
+[2019.11.02-14.18.12:252][367]LogEditorViewport: Clicking Background
