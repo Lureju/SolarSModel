@@ -1,5 +1,9 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 ﻿Log file open, 11/17/19 19:30:33
+=======
+﻿Log file open, 11/16/19 20:20:32
+>>>>>>> Stashed changes
 =======
 ﻿Log file open, 11/16/19 20:20:32
 >>>>>>> Stashed changes
@@ -14,7 +18,11 @@ LogInit: Display: Running engine for game: ellipse1
 LogPlatformFile: Not using cached read wrapper
 LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogStats: Stats thread started at 0.075356
+=======
+LogStats: Stats thread started at 0.082149
+>>>>>>> Stashed changes
 =======
 LogStats: Stats thread started at 0.082149
 >>>>>>> Stashed changes
@@ -168,6 +176,7 @@ LogInit: Presizing for max 16777216 objects, including 0 objects not considered 
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 [2019.11.17-15.30.33:976][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2019.11.17-15.30.33:976][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
@@ -944,6 +953,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.17-15.34.05:250][368]LogExit: Exiting.
 [2019.11.17-15.34.05:270][368]Log file closed, 11/17/19 19:34:05
 =======
+=======
+>>>>>>> Stashed changes
 [2019.11.16-16.20.32:830][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2019.11.16-16.20.32:830][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
 [2019.11.16-16.20.32:830][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Project/ellipse1/Saved/Config/Windows/Engine.ini]
@@ -20097,4 +20108,7 @@ Make sure 'Minimal_Default_C' has been compiled for  Get CollisionComponent
 [2019.11.16-17.46.42:210][ 23]LogD3D11RHI: ~FD3D11DynamicRHI
 [2019.11.16-17.46.42:215][ 23]LogExit: Exiting.
 [2019.11.16-17.46.42:226][ 23]Log file closed, 11/16/19 21:46:42
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
