@@ -1,0 +1,1496 @@
+﻿Log file open, 11/07/19 18:11:10
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: ellipse1
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.080310
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +4:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin NiagaraExtras
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-8386587
+LogInit: Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1903) (), CPU:         Intel(R) Core(TM) i5-3570 CPU @ 3.40GHz, GPU: NVIDIA GeForce GTX 1050 Ti
+LogInit: Compiled (64-bit): Aug 31 2019 02:04:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Users/Миша.Johnvk-PC/UE4/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.11.07-14.11.11:054][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.11.07-14.11.11:054][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.11.07-14.11.11:054][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Project/ellipse1/Saved/Config/Windows/Engine.ini]
+[2019.11.07-14.11.11:054][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.11.07-14.11.11:054][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2019.11.07-14.11.11:054][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Project/ellipse1/Saved/Config/Windows/Engine.ini]
+[2019.11.07-14.11.11:054][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Project/ellipse1/Saved/Config/Windows/Engine.ini]
+[2019.11.07-14.11.11:054][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.11.07-14.11.11:055][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.11.07-14.11.11:055][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.11.07-14.11.11:055][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.11.07-14.11.11:055][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.11.07-14.11.11:055][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.11.07-14.11.11:055][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.11.07-14.11.11:055][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.11.07-14.11.11:055][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.11.07-14.11.11:055][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.11.07-14.11.11:055][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.11.07-14.11.11:055][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.11.07-14.11.11:055][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.11.07-14.11.11:055][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Project/ellipse1/Saved/Config/Windows/Engine.ini]
+[2019.11.07-14.11.11:055][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.11.07-14.11.11:055][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.11.07-14.11.11:055][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.11.07-14.11.11:055][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.11.07-14.11.11:055][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.11.07-14.11.11:055][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.11.07-14.11.11:055][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.11.07-14.11.11:055][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.11.07-14.11.11:055][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.11.07-14.11.11:055][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.11.07-14.11.11:055][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.11.07-14.11.11:055][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.11.07-14.11.11:055][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.11.07-14.11.11:055][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Project/ellipse1/Saved/Config/Windows/Engine.ini]
+[2019.11.07-14.11.11:055][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Project/ellipse1/Saved/Config/Windows/Engine.ini]
+[2019.11.07-14.11.11:057][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Project/ellipse1/Saved/Config/Windows/Scalability.ini]
+[2019.11.07-14.11.11:057][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.07-14.11.11:057][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.07-14.11.11:058][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Project/ellipse1/Saved/Config/Windows/Scalability.ini]
+[2019.11.07-14.11.11:058][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.07-14.11.11:058][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Project/ellipse1/Saved/Config/Windows/Scalability.ini]
+[2019.11.07-14.11.11:058][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.07-14.11.11:058][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.07-14.11.11:058][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.07-14.11.11:058][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.07-14.11.11:058][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.07-14.11.11:058][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.07-14.11.11:058][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.07-14.11.11:058][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.07-14.11.11:058][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.07-14.11.11:058][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.07-14.11.11:058][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.07-14.11.11:058][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.07-14.11.11:058][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.07-14.11.11:058][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.07-14.11.11:058][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.07-14.11.11:058][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.07-14.11.11:058][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.07-14.11.11:058][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.07-14.11.11:058][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Project/ellipse1/Saved/Config/Windows/Scalability.ini]
+[2019.11.07-14.11.11:058][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.07-14.11.11:058][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.07-14.11.11:058][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.07-14.11.11:058][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.07-14.11.11:058][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.07-14.11.11:058][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.07-14.11.11:058][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.07-14.11.11:058][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.07-14.11.11:058][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.07-14.11.11:058][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.07-14.11.11:058][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.07-14.11.11:058][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.07-14.11.11:058][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.07-14.11.11:058][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.07-14.11.11:058][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.07-14.11.11:058][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.07-14.11.11:058][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.07-14.11.11:058][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.07-14.11.11:058][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.07-14.11.11:058][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.07-14.11.11:058][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.07-14.11.11:058][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.07-14.11.11:058][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.07-14.11.11:058][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.07-14.11.11:058][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.07-14.11.11:058][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.07-14.11.11:058][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.07-14.11.11:058][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.07-14.11.11:058][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.07-14.11.11:058][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.07-14.11.11:058][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Project/ellipse1/Saved/Config/Windows/Scalability.ini]
+[2019.11.07-14.11.11:058][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.07-14.11.11:058][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.07-14.11.11:058][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.07-14.11.11:058][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.07-14.11.11:058][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.07-14.11.11:058][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.07-14.11.11:058][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.07-14.11.11:058][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.07-14.11.11:058][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Project/ellipse1/Saved/Config/Windows/Scalability.ini]
+[2019.11.07-14.11.11:058][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.07-14.11.11:059][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.07-14.11.11:059][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.07-14.11.11:059][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.07-14.11.11:059][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.07-14.11.11:059][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.07-14.11.11:059][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.07-14.11.11:059][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.07-14.11.11:059][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.07-14.11.11:059][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.07-14.11.11:059][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.07-14.11.11:059][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.07-14.11.11:059][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.07-14.11.11:059][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Project/ellipse1/Saved/Config/Windows/Scalability.ini]
+[2019.11.07-14.11.11:059][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.07-14.11.11:059][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.07-14.11.11:059][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.07-14.11.11:059][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.11.07-14.11.11:061][  0]LogHAL: Display: Platform has ~ 16 GB [17123233792 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.11.07-14.11.11:061][  0]LogInit: Going up to parent DeviceProfile []
+[2019.11.07-14.11.11:062][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Project/ellipse1/Saved/Config/Windows/Scalability.ini]
+[2019.11.07-14.11.11:062][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.07-14.11.11:062][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.07-14.11.11:062][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Project/ellipse1/Saved/Config/Windows/Scalability.ini]
+[2019.11.07-14.11.11:062][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.07-14.11.11:062][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Project/ellipse1/Saved/Config/Windows/Scalability.ini]
+[2019.11.07-14.11.11:062][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.07-14.11.11:062][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.07-14.11.11:062][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.07-14.11.11:062][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.07-14.11.11:062][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.07-14.11.11:062][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.07-14.11.11:062][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.07-14.11.11:062][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.07-14.11.11:062][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.07-14.11.11:062][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.07-14.11.11:062][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.07-14.11.11:062][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.07-14.11.11:062][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.07-14.11.11:062][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.07-14.11.11:062][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.07-14.11.11:062][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.07-14.11.11:062][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.07-14.11.11:062][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.07-14.11.11:062][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Project/ellipse1/Saved/Config/Windows/Scalability.ini]
+[2019.11.07-14.11.11:062][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.07-14.11.11:062][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.07-14.11.11:062][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.07-14.11.11:062][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.07-14.11.11:062][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.07-14.11.11:062][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.07-14.11.11:062][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.07-14.11.11:062][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.07-14.11.11:062][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.07-14.11.11:062][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.07-14.11.11:062][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.07-14.11.11:062][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.07-14.11.11:062][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.07-14.11.11:062][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.07-14.11.11:062][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.07-14.11.11:062][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.07-14.11.11:062][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.07-14.11.11:062][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.07-14.11.11:062][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.07-14.11.11:062][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.07-14.11.11:062][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.07-14.11.11:062][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.07-14.11.11:062][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.07-14.11.11:062][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.07-14.11.11:062][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.07-14.11.11:062][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.07-14.11.11:062][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.07-14.11.11:062][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.07-14.11.11:062][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.07-14.11.11:062][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.07-14.11.11:062][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Project/ellipse1/Saved/Config/Windows/Scalability.ini]
+[2019.11.07-14.11.11:062][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.07-14.11.11:062][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.07-14.11.11:062][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.07-14.11.11:062][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.07-14.11.11:062][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.07-14.11.11:063][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.07-14.11.11:063][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.07-14.11.11:063][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.07-14.11.11:063][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Project/ellipse1/Saved/Config/Windows/Scalability.ini]
+[2019.11.07-14.11.11:063][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.07-14.11.11:063][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.07-14.11.11:063][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.07-14.11.11:063][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.07-14.11.11:063][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.07-14.11.11:063][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.07-14.11.11:063][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.07-14.11.11:063][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.07-14.11.11:063][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.07-14.11.11:063][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.07-14.11.11:063][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.07-14.11.11:063][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.07-14.11.11:063][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.07-14.11.11:063][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Project/ellipse1/Saved/Config/Windows/Scalability.ini]
+[2019.11.07-14.11.11:063][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.07-14.11.11:063][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.07-14.11.11:063][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.11.07-14.11.11:063][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.11.07-14.11.11:063][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.11.07-14.11.11:063][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2019.11.07-14.11.11:063][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Project/ellipse1/Saved/Config/Windows/Engine.ini]
+[2019.11.07-14.11.11:063][  0]LogInit: Computer: JOHNVK-PC
+[2019.11.07-14.11.11:063][  0]LogInit: User: Миша
+[2019.11.07-14.11.11:063][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.11.07-14.11.11:063][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.11.07-14.11.11:063][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.11.07-14.11.11:063][  0]LogMemory: Platform Memory Stats for Windows
+[2019.11.07-14.11.11:063][  0]LogMemory: Process Physical Memory: 101.40 MB used, 101.40 MB peak
+[2019.11.07-14.11.11:063][  0]LogMemory: Process Virtual Memory: 100.05 MB used, 100.05 MB peak
+[2019.11.07-14.11.11:063][  0]LogMemory: Physical Memory: 5675.17 MB used,  10654.82 MB free, 16329.99 MB total
+[2019.11.07-14.11.11:063][  0]LogMemory: Virtual Memory: 4656.29 MB used,  134213072.00 MB free, 134217728.00 MB total
+[2019.11.07-14.11.11:066][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.11.07-14.11.11:087][  0]LogInit: Overriding language with editor language configuration option (en).
+[2019.11.07-14.11.11:087][  0]LogInit: Overriding locale with editor culture configuration option ().
+[2019.11.07-14.11.11:087][  0]LogInit: Using OS detected locale (ru-RU).
+[2019.11.07-14.11.11:280][  0]LogInit: Setting process to per monitor DPI aware
+[2019.11.07-14.11.11:304][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.11.07-14.11.11:304][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.11.07-14.11.11:454][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.11.07-14.11.11:454][  0]LogD3D11RHI: D3D11 adapters:
+[2019.11.07-14.11.11:533][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2019.11.07-14.11.11:533][  0]LogD3D11RHI:       4018/0/8164 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.11.07-14.11.11:535][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.11.07-14.11.11:535][  0]LogD3D11RHI:       0/0/8164 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.11.07-14.11.11:535][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.11.07-14.11.11:541][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.11.07-14.11.11:541][  0]LogD3D11RHI:     GPU DeviceId: 0x1c82 (for the marketing name, search the web for "GPU Device Id")
+[2019.11.07-14.11.11:541][  0]LogWindows: EnumDisplayDevices:
+[2019.11.07-14.11.11:541][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1050 Ti' (P:1 D:1)
+[2019.11.07-14.11.11:541][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2019.11.07-14.11.11:542][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2019.11.07-14.11.11:542][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2019.11.07-14.11.11:542][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.11.07-14.11.11:542][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2019.11.07-14.11.11:542][  0]LogD3D11RHI:   Driver Version: 441.08 (internal:26.21.14.4108, unified:441.08)
+[2019.11.07-14.11.11:542][  0]LogD3D11RHI:      Driver Date: 10-22-2019
+[2019.11.07-14.11.11:542][  0]LogRHI: Texture pool is 2812 MB (70% of 4018 MB)
+[2019.11.07-14.11.11:595][  0]LogD3D11RHI: Async texture creation enabled
+[2019.11.07-14.11.11:614][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.11.07-14.11.11:903][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.11.07-14.11.11:913][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.11.07-14.11.11:922][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.11.07-14.11.11:931][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.11.07-14.11.11:941][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.11.07-14.11.11:951][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.11.07-14.11.11:960][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.11.07-14.11.11:969][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.11.07-14.11.11:975][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.11.07-14.11.12:009][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.11.07-14.11.12:009][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.11.07-14.11.12:009][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.11.07-14.11.12:009][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.11.07-14.11.12:009][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.11.07-14.11.12:009][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.11.07-14.11.12:009][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.11.07-14.11.12:009][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.11.07-14.11.12:009][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.11.07-14.11.12:009][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.11.07-14.11.12:010][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.11.07-14.11.12:010][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.11.07-14.11.12:010][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.11.07-14.11.12:010][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.11.07-14.11.12:010][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.11.07-14.11.12:010][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.11.07-14.11.12:010][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.11.07-14.11.12:010][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.11.07-14.11.12:011][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.11.07-14.11.12:030][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.11.07-14.11.12:030][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.11.07-14.11.12:044][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.11.07-14.11.12:044][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.11.07-14.11.12:051][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.11.07-14.11.12:059][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.11.07-14.11.12:066][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.11.07-14.11.12:074][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.11.07-14.11.12:100][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.11.07-14.11.12:100][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.11.07-14.11.12:100][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.11.07-14.11.12:110][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.11.07-14.11.12:164][  0]LogShaderCompilers: Guid format shader working directory is 36 characters bigger than the processId version (D:/Project/ellipse1/Intermediate/Shaders/WorkingDirectory/1756/).
+[2019.11.07-14.11.12:164][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Миша.Johnvk-PC/AppData/Local/Temp/UnrealShaderWorkingDir/19508B274366345F87BAA9A99AC78410/'.
+[2019.11.07-14.11.12:167][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.11.07-14.11.12:167][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.11.07-14.11.12:167][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.11.07-14.11.12:844][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.11.07-14.11.12:896][  0]LogDerivedDataCache: Loaded boot cache 0.05s 82MB C:/Users/Миша.Johnvk-PC/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.11.07-14.11.12:897][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Миша.Johnvk-PC/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.11.07-14.11.12:897][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Project/ellipse1/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.11.07-14.11.12:897][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.11.07-14.11.12:897][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Project/ellipse1/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.07-14.11.12:897][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.11.07-14.11.12:908][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.11.07-14.11.12:908][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.07-14.11.12:908][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.11.07-14.11.12:909][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Миша.Johnvk-PC/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.11.07-14.11.12:909][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.11.07-14.11.12:909][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.11.07-14.11.12:933][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.11.07-14.11.12:936][  0]LogSlate: Using FreeType 2.6.0
+[2019.11.07-14.11.12:936][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.11.07-14.11.12:991][  0]LogAssetRegistry: FAssetRegistry took 0.0028 seconds to start up
+[2019.11.07-14.11.13:314][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.07-14.11.13:494][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.11.07-14.11.13:494][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.11.07-14.11.13:494][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.11.07-14.11.13:494][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.11.07-14.11.13:494][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.11.07-14.11.13:504][  0]LogNetVersion: ellipse1 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 2516326752)
+[2019.11.07-14.11.13:715][  0]LogClass: Warning: In asset 'None', there is an enum property of type 'EDepthOfFieldMethod' with an invalid value of '('
+[2019.11.07-14.11.13:958][  0]LogPackageLocalizationCache: Processed 14 localized package path(s) for 1 prioritized culture(s) in 0.040272 seconds
+[2019.11.07-14.11.13:965][  0]LogUObjectArray: 43469 objects as part of root set at end of initial load.
+[2019.11.07-14.11.13:965][  0]LogUObjectAllocator: 7553416 out of 0 bytes used by permanent object pool.
+[2019.11.07-14.11.13:965][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.11.07-14.11.14:957][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.11.07-14.11.14:960][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.11.07-14.11.15:018][  0]SourceControl: Source control is disabled
+[2019.11.07-14.11.15:018][  0]SourceControl: Source control is disabled
+[2019.11.07-14.11.15:020][  0]SourceControl: Source control is disabled
+[2019.11.07-14.11.15:021][  0]SourceControl: Source control is disabled
+[2019.11.07-14.11.15:116][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.11.07-14.11.15:253][  0]LogOcInput: OculusInput pre-init called
+[2019.11.07-14.11.15:260][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.11.07-14.11.15:260][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.11.07-14.11.15:340][  0]LogEngine: Initializing Engine...
+[2019.11.07-14.11.15:341][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.11.07-14.11.15:342][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.11.07-14.11.15:643][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.11.07-14.11.15:660][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.11.07-14.11.15:677][  0]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.07-14.11.15:699][  0]LogInit: FAudioDevice initialized.
+[2019.11.07-14.11.15:699][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.11.07-14.11.15:779][  0]LogDerivedDataCache: Saved boot cache 0.08s 82MB C:/Users/Миша.Johnvk-PC/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.11.07-14.11.15:782][  0]LogInit: Texture streaming: Enabled
+[2019.11.07-14.11.15:802][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.11.07-14.11.15:845][  0]LogInit: Transaction tracking system initialized
+[2019.11.07-14.11.15:881][  0]BlueprintLog: New page: Editor Load
+[2019.11.07-14.11.15:967][  0]LocalizationService: Localization service is disabled
+[2019.11.07-14.11.16:234][  0]LogFileCache: Scanning file cache for directory 'D:/Project/ellipse1/Content/' took 0.00s
+[2019.11.07-14.11.16:234][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.11.07-14.11.16:234][  0]LogCook: Display: Mobile HDR setting 1
+[2019.11.07-14.11.16:425][  0]SourceControl: Source control is disabled
+[2019.11.07-14.11.16:425][  0]Cmd: MAP LOAD FILE="D:/Project/ellipse1/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.07-14.11.16:425][  0]LightingResults: New page: Lighting Build
+[2019.11.07-14.11.16:429][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.11.07-14.11.16:429][  0]MapCheck: New page: Map Check
+[2019.11.07-14.11.16:429][  0]LightingResults: New page: Lighting Build
+[2019.11.07-14.11.16:455][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2019.11.07-14.11.16:593][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.11.07-14.11.16:598][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.07-14.11.16:622][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2019.11.07-14.11.16:623][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.07-14.11.16:623][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,123ms to complete.
+[2019.11.07-14.11.16:623][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.198
+[2019.11.07-14.11.16:735][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.07-14.11.16:744][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.07-14.11.16:752][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.07-14.11.16:760][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.07-14.11.16:772][  0]LogCollectionManager: Loaded 0 collections in 0.001959 seconds
+[2019.11.07-14.11.16:792][  0]LogFileCache: Scanning file cache for directory 'D:/Project/ellipse1/Saved/Collections/' took 0.00s
+[2019.11.07-14.11.16:793][  0]LogFileCache: Scanning file cache for directory 'D:/Project/ellipse1/Content/Developers/Миша/Collections/' took 0.00s
+[2019.11.07-14.11.16:793][  0]LogFileCache: Scanning file cache for directory 'D:/Project/ellipse1/Content/Collections/' took 0.00s
+[2019.11.07-14.11.16:793][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2019.11.07-14.11.16:803][  0]LogContentBrowser: Native class hierarchy populated in 0.0097 seconds. Added 2999 classes and 698 folders.
+[2019.11.07-14.11.16:816][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.11.07-14.11.16:978][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.11.07-14.11.16:999][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.11.07-14.11.17:147][  0]LogSlate: Took 0.000114 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.11.07-14.11.17:149][  0]LogSlate: Took 0.000144 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.11.07-14.11.17:152][  0]LogSlate: Took 0.000776 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.11.07-14.11.17:218][  0]LogRenderer: Reallocating scene render targets to support 1176x520 Format 10 NumSamples 1 (Frame:1).
+[2019.11.07-14.11.17:318][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.11.07-14.11.17:319][  0]LogLoad: (Engine Initialization) Total time: 7.18 seconds
+[2019.11.07-14.11.17:319][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.11.07-14.11.17:383][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.11.07-14.11.17:410][  0]LogSlate: Took 0.001014 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.07-14.11.17:455][  1]LogAssetRegistry: Asset discovery search completed in 4.4641 seconds
+[2019.11.07-14.11.17:461][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000005 seconds (found 0 objects)
+[2019.11.07-14.11.17:461][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000096 seconds (updated 0 objects)
+[2019.11.07-14.11.18:774][  5]LogSlate: Took 0.000189 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.07-14.15.38:020][943]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.07-14.15.38:222][953]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/StarterContent/Blueprints/Rotaton002.Rotaton002
+[2019.11.07-14.15.38:546][953]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 121 classes and 0 folders.
+[2019.11.07-14.15.39:916][953]LogAssetEditorManager: Opening Asset editor for NiagaraEmitter /Game/StarterContent/Materials/Trail/My1Niagara.My1Niagara
+[2019.11.07-14.15.40:224][953]LogNiagara: Warning: Failed to activate Niagara System due to invalid asset!
+[2019.11.07-14.15.40:335][953]LogAssetEditorManager: Opening Asset editor for Material /Game/StarterContent/Materials/Trail/myTrail1.myTrail1
+[2019.11.07-14.15.40:340][953]LogMaterial: Display: Missing cached shader map for material myTrail1, compiling. 
+[2019.11.07-14.15.40:507][953]LogMaterial: Display: Missing cached shader map for material myTrail1, compiling. 
+[2019.11.07-14.15.40:535][953]LogMaterial: Display: Missing cached shader map for material myTrail1, compiling. 
+[2019.11.07-14.15.40:568][953]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 45
+[2019.11.07-14.15.40:568][953]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 44
+[2019.11.07-14.15.40:568][953]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 43
+[2019.11.07-14.15.40:572][953]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureCoordinate_0, compiling. 
+[2019.11.07-14.15.40:582][953]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionComponentMask_0, compiling. 
+[2019.11.07-14.15.40:616][953]LogAssetEditorManager: Opening Asset editor for Material /Game/StarterContent/Materials/M_Basic_Wall.M_Basic_Wall
+[2019.11.07-14.15.40:620][953]LogMaterial: Display: Missing cached shader map for material M_Basic_Wall, compiling. 
+[2019.11.07-14.15.40:734][953]LogMaterial: Display: Missing cached shader map for material M_Basic_Wall, compiling. 
+[2019.11.07-14.15.40:756][953]LogMaterial: Display: Missing cached shader map for material M_Basic_Wall, compiling. 
+[2019.11.07-14.15.40:785][953]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2019.11.07-14.15.42:076][953]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 84
+[2019.11.07-14.15.42:076][953]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 83
+[2019.11.07-14.15.42:076][953]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 82
+[2019.11.07-14.15.42:076][953]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 81
+[2019.11.07-14.15.42:076][953]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 80
+[2019.11.07-14.15.42:076][953]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 79
+[2019.11.07-14.15.42:076][953]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 78
+[2019.11.07-14.15.42:076][953]LogNiagaraEditor: Verbose: '/Engine/Transient' Precompile took 0.139362 sec.
+[2019.11.07-14.15.42:077][953]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.SpawnScript' is in-sync skipping compile..
+[2019.11.07-14.15.42:077][953]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.UpdateScript' is in-sync skipping compile..
+[2019.11.07-14.15.42:077][953]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.EmitterSpawnScript' is in-sync skipping compile..
+[2019.11.07-14.15.42:077][953]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.EmitterUpdateScript' is in-sync skipping compile..
+[2019.11.07-14.15.42:084][953]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:SystemSpawnScript ...................................................................
+[2019.11.07-14.15.42:084][953]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:SystemUpdateScript ...................................................................
+[2019.11.07-14.15.42:084][953]89852_NiagaraSystem_0_MessageLog: System compile status unknown with 0 warning(s) and 0 error(s).
+[2019.11.07-14.15.42:390][953]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:SystemSpawnScript took 0.070804 sec (0.004277/0.066403)... Status NCS_UpToDate
+[2019.11.07-14.15.42:390][953]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:SystemUpdateScript took 0.195998 sec (0.011805/0.125485)... Status NCS_UpToDate
+[2019.11.07-14.15.42:390][953]LogNiagara: UNiagraScript 'NiagaraScript /Engine/Transient.NiagaraSystem_0:SystemSpawnScript' was built locally..
+[2019.11.07-14.15.42:391][953]LogNiagara: UNiagraScript 'NiagaraScript /Engine/Transient.NiagaraSystem_0:SystemUpdateScript' was built locally..
+[2019.11.07-14.15.42:558][953]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 77
+[2019.11.07-14.15.42:558][953]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 76
+[2019.11.07-14.15.42:558][953]LogSlate: Took 0.001130 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.11.07-14.15.42:839][953]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 75
+[2019.11.07-14.15.42:988][954]89852_NiagaraSystem_0_MessageLog: System successfully compiled.
+[2019.11.07-14.15.43:088][955]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 74
+[2019.11.07-14.15.43:088][955]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 73
+[2019.11.07-14.15.43:139][956]LogSlate: Took 0.002734 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.11.07-14.15.43:257][959]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 72
+[2019.11.07-14.15.43:419][961]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 71
+[2019.11.07-14.15.43:641][964]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 70
+[2019.11.07-14.15.43:705][965]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 69
+[2019.11.07-14.15.43:777][966]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 68
+[2019.11.07-14.15.45:316][ 94]LogRenderer: Reallocating scene render targets to support 1176x564 Format 10 NumSamples 1 (Frame:105).
+[2019.11.07-14.15.45:618][120]LogSlate: Window 'My1Niagara' being destroyed
+[2019.11.07-14.15.45:797][139]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 67
+[2019.11.07-14.15.47:126][274]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 66
+[2019.11.07-14.15.47:516][307]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 65
+[2019.11.07-14.15.48:837][437]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 64
+[2019.11.07-14.15.49:440][499]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 63
+[2019.11.07-14.15.49:450][500]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 62
+[2019.11.07-14.15.52:675][742]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 61
+[2019.11.07-14.15.52:751][748]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 60
+[2019.11.07-14.15.53:504][760]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 59
+[2019.11.07-14.15.53:539][761]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 58
+[2019.11.07-14.15.53:722][763]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 57
+[2019.11.07-14.15.54:191][770]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 56
+[2019.11.07-14.15.54:559][778]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 55
+[2019.11.07-14.15.54:904][783]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 54
+[2019.11.07-14.15.55:156][787]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 53
+[2019.11.07-14.15.55:733][794]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 52
+[2019.11.07-14.15.55:852][796]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 51
+[2019.11.07-14.15.55:935][797]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 50
+[2019.11.07-14.15.56:825][804]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 49
+[2019.11.07-14.15.57:056][806]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 48
+[2019.11.07-14.15.57:901][815]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 47
+[2019.11.07-14.15.58:193][818]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 46
+[2019.11.07-14.15.58:274][819]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 45
+[2019.11.07-14.15.58:942][826]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 44
+[2019.11.07-14.15.59:542][833]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 43
+[2019.11.07-14.15.59:542][833]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 42
+[2019.11.07-14.16.00:090][845]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 41
+[2019.11.07-14.16.00:090][845]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 40
+[2019.11.07-14.16.00:143][845]MaterialEditorStats: Base pass shader: 77 instructions
+[2019.11.07-14.16.00:143][845]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 98 instructions
+[2019.11.07-14.16.00:143][845]MaterialEditorStats: Base pass vertex shader: 141 instructions
+[2019.11.07-14.16.00:143][845]MaterialEditorStats: Texture samplers: 4/16
+[2019.11.07-14.16.00:143][845]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.11.07-14.16.00:291][848]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 39
+[2019.11.07-14.16.00:550][853]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 38
+[2019.11.07-14.16.00:646][855]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 37
+[2019.11.07-14.16.00:773][857]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 36
+[2019.11.07-14.16.01:129][863]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 35
+[2019.11.07-14.16.01:182][864]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 34
+[2019.11.07-14.16.01:235][865]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 33
+[2019.11.07-14.16.01:652][874]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 32
+[2019.11.07-14.16.01:652][874]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 31
+[2019.11.07-14.16.01:652][874]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 30
+[2019.11.07-14.16.01:958][879]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 29
+[2019.11.07-14.16.01:958][879]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 28
+[2019.11.07-14.16.02:003][880]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 27
+[2019.11.07-14.16.02:206][883]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 26
+[2019.11.07-14.16.02:271][885]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 25
+[2019.11.07-14.16.02:359][887]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 24
+[2019.11.07-14.16.02:499][889]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 23
+[2019.11.07-14.16.03:071][902]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 22
+[2019.11.07-14.16.03:071][902]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 21
+[2019.11.07-14.16.03:265][904]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 20
+[2019.11.07-14.16.03:912][914]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 19
+[2019.11.07-14.16.03:935][915]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 18
+[2019.11.07-14.16.03:998][918]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 17
+[2019.11.07-14.16.04:486][933]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 16
+[2019.11.07-14.16.04:505][934]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 15
+[2019.11.07-14.16.04:556][936]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 14
+[2019.11.07-14.16.04:983][947]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 13
+[2019.11.07-14.16.05:271][956]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 12
+[2019.11.07-14.16.05:370][958]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 11
+[2019.11.07-14.16.05:840][968]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 10
+[2019.11.07-14.16.06:001][970]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2019.11.07-14.16.06:240][973]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2019.11.07-14.16.06:670][980]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2019.11.07-14.16.06:738][982]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2019.11.07-14.16.06:818][984]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2019.11.07-14.16.07:242][990]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2019.11.07-14.16.07:292][991]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2019.11.07-14.16.07:388][994]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2019.11.07-14.16.07:421][995]MaterialEditorStats: Base pass shader: 120 instructions
+[2019.11.07-14.16.07:421][995]MaterialEditorStats: Base pass shader with Surface Lightmap: 147 instructions
+[2019.11.07-14.16.07:421][995]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2019.11.07-14.16.07:421][995]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.11.07-14.16.07:421][995]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.07-14.16.07:901][  9]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2019.11.07-14.53.49:057][755]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.07-14.54.00:993][180]Cmd: TRANSACTION UNDO
+[2019.11.07-14.54.00:993][180]LogEditorTransaction: Undo Set Vector Property
+[2019.11.07-14.54.01:071][180]LogMaterial: Display: Missing cached shader map for material myTrail1, compiling. 
+[2019.11.07-14.54.01:100][180]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 45
+[2019.11.07-14.54.01:100][180]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 44
+[2019.11.07-14.54.01:100][180]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 43
+[2019.11.07-14.54.01:104][180]LogMaterial: Display: Missing cached shader map for material M_Basic_Wall, compiling. 
+[2019.11.07-14.54.02:404][314]Cmd: TRANSACTION UNDO
+[2019.11.07-14.54.02:404][314]LogEditorTransaction: Undo Set Vector Property
+[2019.11.07-14.54.02:493][314]LogMaterial: Display: Missing cached shader map for material myTrail1, compiling. 
+[2019.11.07-14.54.02:522][314]LogMaterial: Display: Missing cached shader map for material M_Basic_Wall, compiling. 
+[2019.11.07-14.54.02:575][316]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 75
+[2019.11.07-14.54.03:044][365]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 74
+[2019.11.07-14.54.04:139][466]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 73
+[2019.11.07-14.54.04:223][472]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 72
+[2019.11.07-14.54.04:696][514]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 71
+[2019.11.07-14.54.05:015][549]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 70
+[2019.11.07-14.54.05:015][549]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 69
+[2019.11.07-14.54.05:192][568]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 68
+[2019.11.07-14.54.05:409][591]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 67
+[2019.11.07-14.54.05:557][608]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 66
+[2019.11.07-14.54.05:773][632]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 65
+[2019.11.07-14.54.05:965][654]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 64
+[2019.11.07-14.54.06:070][666]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 63
+[2019.11.07-14.54.06:404][704]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 62
+[2019.11.07-14.54.06:798][749]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 61
+[2019.11.07-14.54.06:806][750]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 60
+[2019.11.07-14.54.07:211][794]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 59
+[2019.11.07-14.54.07:259][799]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 58
+[2019.11.07-14.54.07:508][822]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 57
+[2019.11.07-14.54.07:691][843]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 56
+[2019.11.07-14.54.07:887][865]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 55
+[2019.11.07-14.54.08:884][977]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 54
+[2019.11.07-14.54.09:130][  4]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 53
+[2019.11.07-14.54.09:862][ 84]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 52
+[2019.11.07-14.54.10:028][103]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 51
+[2019.11.07-14.54.10:439][148]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 50
+[2019.11.07-14.54.12:344][341]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 49
+[2019.11.07-14.54.12:798][388]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 48
+[2019.11.07-14.54.13:987][504]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 47
+[2019.11.07-14.54.15:422][660]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 46
+[2019.11.07-14.54.15:916][713]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 45
+[2019.11.07-14.54.17:291][862]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 44
+[2019.11.07-14.54.17:680][906]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 43
+[2019.11.07-14.54.17:742][913]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 42
+[2019.11.07-14.54.18:463][993]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 41
+[2019.11.07-14.54.18:532][  1]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 40
+[2019.11.07-14.54.19:989][164]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 39
+[2019.11.07-14.54.20:061][172]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 38
+[2019.11.07-14.54.20:282][197]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 37
+[2019.11.07-14.54.21:242][307]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 36
+[2019.11.07-14.54.21:863][378]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 35
+[2019.11.07-14.54.22:189][410]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 34
+[2019.11.07-14.54.22:852][479]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 33
+[2019.11.07-14.54.24:090][584]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 32
+[2019.11.07-14.54.24:766][649]LogNiagaraEditor: Saving and Compiling NiagaraEmitter My1Niagara
+[2019.11.07-14.54.24:819][649]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/Trail/My1Niagara" FILE="D:/Project/ellipse1/Content/StarterContent/Materials/Trail/My1Niagara.uasset" SILENT=true
+[2019.11.07-14.54.24:903][649]LogSavePackage: Moving 'D:/Project/ellipse1/Saved/My1NiagaraF49F3D0D4BF4EBF211DBA9A617E70923.tmp' to 'D:/Project/ellipse1/Content/StarterContent/Materials/Trail/My1Niagara.uasset'
+[2019.11.07-14.54.25:673][704]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 31
+[2019.11.07-14.54.26:258][759]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 30
+[2019.11.07-14.54.26:823][816]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 29
+[2019.11.07-14.54.27:007][835]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 28
+[2019.11.07-14.54.27:023][836]MaterialEditorStats: Base pass shader: 77 instructions
+[2019.11.07-14.54.27:023][836]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 98 instructions
+[2019.11.07-14.54.27:023][836]MaterialEditorStats: Base pass vertex shader: 141 instructions
+[2019.11.07-14.54.27:023][836]MaterialEditorStats: Texture samplers: 4/16
+[2019.11.07-14.54.27:023][836]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.11.07-14.54.28:143][940]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 27
+[2019.11.07-14.54.28:402][960]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 26
+[2019.11.07-14.54.29:159][ 37]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 25
+[2019.11.07-14.54.29:806][ 99]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 24
+[2019.11.07-14.54.30:435][166]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 23
+[2019.11.07-14.54.31:118][232]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 22
+[2019.11.07-14.54.31:196][238]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2019.11.07-14.54.31:762][283]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 20
+[2019.11.07-14.54.32:220][287]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 19
+[2019.11.07-14.54.32:829][297]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 18
+[2019.11.07-14.54.33:118][299]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 17
+[2019.11.07-14.54.33:220][300]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 16
+[2019.11.07-14.54.34:002][308]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 15
+[2019.11.07-14.54.34:102][309]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 14
+[2019.11.07-14.54.34:310][311]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 13
+[2019.11.07-14.54.35:020][320]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 12
+[2019.11.07-14.54.35:020][320]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 11
+[2019.11.07-14.54.35:104][321]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 10
+[2019.11.07-14.54.35:786][332]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2019.11.07-14.54.36:150][336]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2019.11.07-14.54.36:225][337]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2019.11.07-14.54.36:902][344]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2019.11.07-14.54.37:052][346]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2019.11.07-14.54.37:299][349]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2019.11.07-14.54.38:321][356]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2019.11.07-14.54.38:545][357]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2019.11.07-14.54.39:165][359]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2019.11.07-14.54.41:403][363]MaterialEditorStats: Base pass shader: 120 instructions
+[2019.11.07-14.54.41:403][363]MaterialEditorStats: Base pass shader with Surface Lightmap: 147 instructions
+[2019.11.07-14.54.41:403][363]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2019.11.07-14.54.41:403][363]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.11.07-14.54.41:403][363]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.07-15.05.09:909][908]LogNiagaraEditor: Verbose: '/Engine/Transient' Precompile took 0.051877 sec.
+[2019.11.07-15.05.09:909][908]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.SpawnScript ...................................................................
+[2019.11.07-15.05.09:909][908]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.EmitterSpawnScript' is in-sync skipping compile..
+[2019.11.07-15.05.09:909][908]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.UpdateScript ...................................................................
+[2019.11.07-15.05.09:909][908]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.EmitterUpdateScript' is in-sync skipping compile..
+[2019.11.07-15.05.09:909][908]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:SystemSpawnScript' is in-sync skipping compile..
+[2019.11.07-15.05.09:909][908]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:SystemUpdateScript' is in-sync skipping compile..
+[2019.11.07-15.05.10:153][936]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.SpawnScript took 0.242032 sec (0.017053/0.224772)... Status NCS_UpToDate
+[2019.11.07-15.05.10:153][936]LogNiagara: UNiagraScript 'NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.SpawnScript' was built locally..
+[2019.11.07-15.05.10:238][946]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.UpdateScript took 0.327648 sec (0.023798/0.085789)... Status NCS_UpToDate
+[2019.11.07-15.05.10:240][946]LogNiagara: UNiagraScript 'NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.UpdateScript' was built locally..
+[2019.11.07-15.05.10:301][947]89852_NiagaraSystem_0_MessageLog: System successfully compiled.
+[2019.11.07-15.05.33:711][738]LogNiagaraEditor: Verbose: '/Engine/Transient' Precompile took 0.050969 sec.
+[2019.11.07-15.05.33:712][738]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.SpawnScript ...................................................................
+[2019.11.07-15.05.33:712][738]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.EmitterSpawnScript' is in-sync skipping compile..
+[2019.11.07-15.05.33:712][738]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.UpdateScript ...................................................................
+[2019.11.07-15.05.33:712][738]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.EmitterUpdateScript' is in-sync skipping compile..
+[2019.11.07-15.05.33:712][738]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:SystemSpawnScript' is in-sync skipping compile..
+[2019.11.07-15.05.33:712][738]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:SystemUpdateScript' is in-sync skipping compile..
+[2019.11.07-15.05.33:911][761]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.SpawnScript took 0.196573 sec (0.013445/0.182960)... Status NCS_UpToDate
+[2019.11.07-15.05.33:911][761]LogNiagara: UNiagraScript 'NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.SpawnScript' was built locally..
+[2019.11.07-15.05.33:995][771]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.UpdateScript took 0.282146 sec (0.020183/0.085600)... Status NCS_UpToDate
+[2019.11.07-15.05.33:995][771]LogNiagara: UNiagraScript 'NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.UpdateScript' was built locally..
+[2019.11.07-15.05.34:054][772]89852_NiagaraSystem_0_MessageLog: System successfully compiled.
+[2019.11.07-15.05.47:236][339]LogNiagaraEditor: Verbose: '/Engine/Transient' Precompile took 0.050899 sec.
+[2019.11.07-15.05.47:237][339]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.SpawnScript ...................................................................
+[2019.11.07-15.05.47:237][339]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.EmitterSpawnScript' is in-sync skipping compile..
+[2019.11.07-15.05.47:237][339]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.UpdateScript ...................................................................
+[2019.11.07-15.05.47:237][339]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.EmitterUpdateScript' is in-sync skipping compile..
+[2019.11.07-15.05.47:237][339]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:SystemSpawnScript' is in-sync skipping compile..
+[2019.11.07-15.05.47:237][339]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:SystemUpdateScript' is in-sync skipping compile..
+[2019.11.07-15.05.47:484][368]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.SpawnScript took 0.245320 sec (0.016842/0.228305)... Status NCS_UpToDate
+[2019.11.07-15.05.47:486][368]LogNiagara: UNiagraScript 'NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.SpawnScript' was built locally..
+[2019.11.07-15.05.47:568][378]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.UpdateScript took 0.328994 sec (0.023491/0.083782)... Status NCS_UpToDate
+[2019.11.07-15.05.47:571][378]LogNiagara: UNiagraScript 'NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.UpdateScript' was built locally..
+[2019.11.07-15.05.47:631][379]89852_NiagaraSystem_0_MessageLog: System successfully compiled.
+[2019.11.07-15.06.31:156][594]LogNiagaraEditor: Verbose: '/Engine/Transient' Precompile took 0.051785 sec.
+[2019.11.07-15.06.31:157][594]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.SpawnScript ...................................................................
+[2019.11.07-15.06.31:157][594]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.EmitterSpawnScript' is in-sync skipping compile..
+[2019.11.07-15.06.31:157][594]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.UpdateScript ...................................................................
+[2019.11.07-15.06.31:157][594]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.EmitterUpdateScript' is in-sync skipping compile..
+[2019.11.07-15.06.31:157][594]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:SystemSpawnScript' is in-sync skipping compile..
+[2019.11.07-15.06.31:157][594]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:SystemUpdateScript' is in-sync skipping compile..
+[2019.11.07-15.06.31:505][635]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.SpawnScript took 0.348333 sec (0.021381/0.326759)... Status NCS_UpToDate
+[2019.11.07-15.06.31:508][635]LogNiagara: UNiagraScript 'NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.SpawnScript' was built locally..
+[2019.11.07-15.06.31:590][645]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.UpdateScript took 0.432818 sec (0.027659/0.084718)... Status NCS_UpToDate
+[2019.11.07-15.06.31:593][645]LogNiagara: UNiagraScript 'NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.UpdateScript' was built locally..
+[2019.11.07-15.06.31:654][646]89852_NiagaraSystem_0_MessageLog: System successfully compiled.
+[2019.11.07-15.07.10:363][255]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.07-15.08.18:293][287]LogSlate: Window 'Color Picker' being destroyed
+[2019.11.07-15.08.24:294][  2]LogNiagaraEditor: Saving and Compiling NiagaraEmitter My1Niagara
+[2019.11.07-15.08.24:309][  2]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/Trail/My1Niagara" FILE="D:/Project/ellipse1/Content/StarterContent/Materials/Trail/My1Niagara.uasset" SILENT=true
+[2019.11.07-15.08.24:370][  2]LogSavePackage: Moving 'D:/Project/ellipse1/Saved/My1NiagaraE7C715264F614434EBF2618D69EF9F99.tmp' to 'D:/Project/ellipse1/Content/StarterContent/Materials/Trail/My1Niagara.uasset'
+[2019.11.07-15.09.03:269][661]LogAssetEditorManager: Opening Asset editor for NiagaraScript /Niagara/Modules/Spawn/Initialization/InitializeParticle.InitializeParticle
+[2019.11.07-15.09.03:300][661]MaterialEditorStats: LastOpCount: 23
+[2019.11.07-15.09.03:321][661]600764844C699B97CD20D0A8DF3427FE_InitializeParticle_MessageLog: Script compile status unknown with 0 warning(s) and 0 error(s).
+[2019.11.07-15.09.18:753][495]LogSlate: Window 'Color Picker' being destroyed
+[2019.11.07-15.09.24:902][223]LogNiagaraEditor: Verbose: '/Engine/Transient' Precompile took 0.052370 sec.
+[2019.11.07-15.09.24:903][223]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.SpawnScript ...................................................................
+[2019.11.07-15.09.24:903][223]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.EmitterSpawnScript' is in-sync skipping compile..
+[2019.11.07-15.09.24:903][223]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.UpdateScript ...................................................................
+[2019.11.07-15.09.24:903][223]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.EmitterUpdateScript' is in-sync skipping compile..
+[2019.11.07-15.09.24:903][223]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:SystemSpawnScript' is in-sync skipping compile..
+[2019.11.07-15.09.24:903][223]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:SystemUpdateScript' is in-sync skipping compile..
+[2019.11.07-15.09.25:234][262]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.SpawnScript took 0.328043 sec (0.020476/0.307421)... Status NCS_UpToDate
+[2019.11.07-15.09.25:235][262]LogNiagara: UNiagraScript 'NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.SpawnScript' was built locally..
+[2019.11.07-15.09.25:319][272]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.UpdateScript took 0.413188 sec (0.026584/0.085289)... Status NCS_UpToDate
+[2019.11.07-15.09.25:320][272]LogNiagara: UNiagraScript 'NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.UpdateScript' was built locally..
+[2019.11.07-15.09.25:383][273]89852_NiagaraSystem_0_MessageLog: System successfully compiled.
+[2019.11.07-15.09.48:465][ 22]LogNiagaraEditor: Verbose: '/Engine/Transient' Precompile took 0.051136 sec.
+[2019.11.07-15.09.48:465][ 22]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.SpawnScript ...................................................................
+[2019.11.07-15.09.48:465][ 22]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.EmitterSpawnScript' is in-sync skipping compile..
+[2019.11.07-15.09.48:465][ 22]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.UpdateScript ...................................................................
+[2019.11.07-15.09.48:465][ 22]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.EmitterUpdateScript' is in-sync skipping compile..
+[2019.11.07-15.09.48:465][ 22]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:SystemSpawnScript' is in-sync skipping compile..
+[2019.11.07-15.09.48:466][ 22]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:SystemUpdateScript' is in-sync skipping compile..
+[2019.11.07-15.09.48:762][ 57]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.SpawnScript took 0.296719 sec (0.019198/0.277376)... Status NCS_UpToDate
+[2019.11.07-15.09.48:763][ 57]LogNiagara: UNiagraScript 'NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.SpawnScript' was built locally..
+[2019.11.07-15.09.48:854][ 68]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.UpdateScript took 0.383816 sec (0.025364/0.087224)... Status NCS_UpToDate
+[2019.11.07-15.09.48:856][ 68]LogNiagara: UNiagraScript 'NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.UpdateScript' was built locally..
+[2019.11.07-15.09.48:917][ 69]89852_NiagaraSystem_0_MessageLog: System successfully compiled.
+[2019.11.07-15.09.54:220][691]LogNiagaraEditor: Verbose: '/Engine/Transient' Precompile took 0.051608 sec.
+[2019.11.07-15.09.54:221][691]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.SpawnScript ...................................................................
+[2019.11.07-15.09.54:221][691]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.EmitterSpawnScript' is in-sync skipping compile..
+[2019.11.07-15.09.54:221][691]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.UpdateScript ...................................................................
+[2019.11.07-15.09.54:221][691]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.EmitterUpdateScript' is in-sync skipping compile..
+[2019.11.07-15.09.54:221][691]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:SystemSpawnScript' is in-sync skipping compile..
+[2019.11.07-15.09.54:221][691]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:SystemUpdateScript' is in-sync skipping compile..
+[2019.11.07-15.09.54:463][719]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.SpawnScript took 0.239306 sec (0.015446/0.223731)... Status NCS_UpToDate
+[2019.11.07-15.09.54:464][719]LogNiagara: UNiagraScript 'NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.SpawnScript' was built locally..
+[2019.11.07-15.09.54:547][729]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.UpdateScript took 0.322628 sec (0.021402/0.083438)... Status NCS_UpToDate
+[2019.11.07-15.09.54:548][729]LogNiagara: UNiagraScript 'NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.UpdateScript' was built locally..
+[2019.11.07-15.09.54:608][730]89852_NiagaraSystem_0_MessageLog: System successfully compiled.
+[2019.11.07-15.10.01:483][544]LogNiagaraEditor: Verbose: '/Engine/Transient' Precompile took 0.051728 sec.
+[2019.11.07-15.10.01:483][544]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.SpawnScript ...................................................................
+[2019.11.07-15.10.01:483][544]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.EmitterSpawnScript' is in-sync skipping compile..
+[2019.11.07-15.10.01:483][544]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.EmitterUpdateScript' is in-sync skipping compile..
+[2019.11.07-15.10.01:483][544]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.UpdateScript ...................................................................
+[2019.11.07-15.10.01:483][544]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:SystemSpawnScript' is in-sync skipping compile..
+[2019.11.07-15.10.01:483][544]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:SystemUpdateScript' is in-sync skipping compile..
+[2019.11.07-15.10.01:780][579]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.SpawnScript took 0.292345 sec (0.018767/0.273398)... Status NCS_UpToDate
+[2019.11.07-15.10.01:782][579]LogNiagara: UNiagraScript 'NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.SpawnScript' was built locally..
+[2019.11.07-15.10.01:865][589]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.UpdateScript took 0.377200 sec (0.024830/0.085013)... Status NCS_UpToDate
+[2019.11.07-15.10.01:867][589]LogNiagara: UNiagraScript 'NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.UpdateScript' was built locally..
+[2019.11.07-15.10.01:928][590]89852_NiagaraSystem_0_MessageLog: System successfully compiled.
+[2019.11.07-15.10.21:025][875]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.07-15.10.26:561][529]Cmd: TRANSACTION UNDO
+[2019.11.07-15.10.26:561][529]LogEditorTransaction: Undo Edit input local value.
+[2019.11.07-15.10.26:637][529]LogMaterial: Display: Missing cached shader map for material myTrail1, compiling. 
+[2019.11.07-15.10.26:663][529]LogMaterial: Display: Missing cached shader map for material M_Basic_Wall, compiling. 
+[2019.11.07-15.10.26:682][529]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 45
+[2019.11.07-15.10.26:682][529]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 44
+[2019.11.07-15.10.26:682][529]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 43
+[2019.11.07-15.10.26:975][552]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 72
+[2019.11.07-15.10.27:021][557]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 71
+[2019.11.07-15.10.27:274][585]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 70
+[2019.11.07-15.10.27:291][587]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 69
+[2019.11.07-15.10.27:431][603]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 68
+[2019.11.07-15.10.27:541][616]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 67
+[2019.11.07-15.10.27:558][618]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 66
+[2019.11.07-15.10.27:780][644]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 65
+[2019.11.07-15.10.27:812][646]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 64
+[2019.11.07-15.10.27:870][653]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 63
+[2019.11.07-15.10.28:064][675]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 62
+[2019.11.07-15.10.28:185][688]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 61
+[2019.11.07-15.10.28:199][688]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 60
+[2019.11.07-15.10.28:452][717]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 59
+[2019.11.07-15.10.28:469][719]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 58
+[2019.11.07-15.10.28:599][733]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 57
+[2019.11.07-15.10.28:695][744]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 56
+[2019.11.07-15.10.28:806][757]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 55
+[2019.11.07-15.10.29:415][826]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 54
+[2019.11.07-15.10.29:450][831]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 53
+[2019.11.07-15.10.30:005][895]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 52
+[2019.11.07-15.10.30:117][907]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 51
+[2019.11.07-15.10.30:152][911]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 50
+[2019.11.07-15.10.30:766][981]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 49
+[2019.11.07-15.10.30:837][989]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 48
+[2019.11.07-15.10.31:455][ 58]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 47
+[2019.11.07-15.10.31:486][ 61]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 46
+[2019.11.07-15.10.32:441][159]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 45
+[2019.11.07-15.10.33:068][226]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 44
+[2019.11.07-15.10.33:821][310]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 43
+[2019.11.07-15.10.33:917][318]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 42
+[2019.11.07-15.10.34:573][384]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 41
+[2019.11.07-15.10.34:765][402]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 40
+[2019.11.07-15.10.35:892][525]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 39
+[2019.11.07-15.10.36:039][542]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 38
+[2019.11.07-15.10.36:315][574]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 37
+[2019.11.07-15.10.37:220][679]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 36
+[2019.11.07-15.10.37:986][767]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 35
+[2019.11.07-15.10.38:167][788]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 34
+[2019.11.07-15.10.38:630][841]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 33
+[2019.11.07-15.10.38:914][874]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 32
+[2019.11.07-15.10.39:367][927]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 31
+[2019.11.07-15.10.39:655][961]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 30
+[2019.11.07-15.10.39:712][967]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 29
+[2019.11.07-15.10.39:712][967]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 28
+[2019.11.07-15.10.39:713][967]MaterialEditorStats: Base pass shader: 77 instructions
+[2019.11.07-15.10.39:713][967]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 98 instructions
+[2019.11.07-15.10.39:713][967]MaterialEditorStats: Base pass vertex shader: 141 instructions
+[2019.11.07-15.10.39:713][967]MaterialEditorStats: Texture samplers: 4/16
+[2019.11.07-15.10.39:713][967]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.11.07-15.10.40:057][  7]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 27
+[2019.11.07-15.10.40:065][  8]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 26
+[2019.11.07-15.10.40:098][ 12]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 25
+[2019.11.07-15.10.40:457][ 54]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 24
+[2019.11.07-15.10.40:465][ 55]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 23
+[2019.11.07-15.10.40:474][ 56]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 22
+[2019.11.07-15.10.40:652][ 76]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2019.11.07-15.10.40:807][ 94]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 20
+[2019.11.07-15.10.40:825][ 96]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 19
+[2019.11.07-15.10.41:262][147]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 18
+[2019.11.07-15.10.41:587][185]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 17
+[2019.11.07-15.10.41:774][207]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 16
+[2019.11.07-15.10.41:974][230]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 15
+[2019.11.07-15.10.42:333][272]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 14
+[2019.11.07-15.10.42:418][282]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 13
+[2019.11.07-15.10.42:581][301]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 12
+[2019.11.07-15.10.42:900][338]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11
+[2019.11.07-15.10.43:121][364]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 10
+[2019.11.07-15.10.43:284][383]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 9
+[2019.11.07-15.10.43:627][423]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2019.11.07-15.10.43:746][437]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 7
+[2019.11.07-15.10.44:235][493]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2019.11.07-15.10.44:606][536]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2019.11.07-15.10.44:908][571]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2019.11.07-15.10.45:794][673]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2019.11.07-15.10.45:857][680]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2019.11.07-15.10.46:361][737]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2019.11.07-15.10.47:292][844]MaterialEditorStats: Base pass shader: 120 instructions
+[2019.11.07-15.10.47:292][844]MaterialEditorStats: Base pass shader with Surface Lightmap: 147 instructions
+[2019.11.07-15.10.47:292][844]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2019.11.07-15.10.47:292][844]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.11.07-15.10.47:292][844]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.07-15.11.27:282][620]LogNiagaraEditor: Verbose: '/Engine/Transient' Precompile took 0.052474 sec.
+[2019.11.07-15.11.27:283][620]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.SpawnScript ...................................................................
+[2019.11.07-15.11.27:283][620]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.EmitterSpawnScript' is in-sync skipping compile..
+[2019.11.07-15.11.27:283][620]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.UpdateScript ...................................................................
+[2019.11.07-15.11.27:283][620]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.EmitterUpdateScript' is in-sync skipping compile..
+[2019.11.07-15.11.27:283][620]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:SystemSpawnScript' is in-sync skipping compile..
+[2019.11.07-15.11.27:283][620]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:SystemUpdateScript' is in-sync skipping compile..
+[2019.11.07-15.11.27:562][652]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.SpawnScript took 0.277110 sec (0.018217/0.258726)... Status NCS_UpToDate
+[2019.11.07-15.11.27:563][652]LogNiagara: UNiagraScript 'NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.SpawnScript' was built locally..
+[2019.11.07-15.11.27:640][661]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.UpdateScript took 0.357162 sec (0.023848/0.080170)... Status NCS_UpToDate
+[2019.11.07-15.11.27:640][661]LogNiagara: UNiagraScript 'NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.UpdateScript' was built locally..
+[2019.11.07-15.11.27:701][662]89852_NiagaraSystem_0_MessageLog: System successfully compiled.
+[2019.11.07-15.11.47:624][ 48]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.07-15.12.33:629][466]Cmd: TRANSACTION UNDO
+[2019.11.07-15.12.33:629][466]LogEditorTransaction: Undo Edit Max Delta Time Per Tick
+[2019.11.07-15.12.33:702][466]LogMaterial: Display: Missing cached shader map for material myTrail1, compiling. 
+[2019.11.07-15.12.33:729][466]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 45
+[2019.11.07-15.12.33:729][466]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 44
+[2019.11.07-15.12.33:729][466]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 43
+[2019.11.07-15.12.33:729][466]LogMaterial: Display: Missing cached shader map for material M_Basic_Wall, compiling. 
+[2019.11.07-15.12.34:403][531]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 72
+[2019.11.07-15.12.34:587][552]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 71
+[2019.11.07-15.12.34:830][580]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 70
+[2019.11.07-15.12.35:101][611]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 69
+[2019.11.07-15.12.35:169][617]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 68
+[2019.11.07-15.12.35:482][652]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 67
+[2019.11.07-15.12.35:821][689]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 66
+[2019.11.07-15.12.35:865][694]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 65
+[2019.11.07-15.12.36:236][736]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 64
+[2019.11.07-15.12.36:457][760]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 63
+[2019.11.07-15.12.36:782][797]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 62
+[2019.11.07-15.12.36:790][798]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 61
+[2019.11.07-15.12.37:009][821]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 60
+[2019.11.07-15.12.37:276][851]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 59
+[2019.11.07-15.12.37:555][883]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 58
+[2019.11.07-15.12.37:572][885]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 57
+[2019.11.07-15.12.37:747][904]LogNiagara: Updating script usage: Script->IsInterpolatdSpawn 0 Emitter->bInterpolatedSpawning 0
+[2019.11.07-15.12.37:827][904]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 56
+[2019.11.07-15.12.37:828][904]LogNiagaraEditor: Verbose: '/Engine/Transient' Precompile took 0.079996 sec.
+[2019.11.07-15.12.37:828][904]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.UpdateScript' is in-sync skipping compile..
+[2019.11.07-15.12.37:828][904]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.SpawnScript ...................................................................
+[2019.11.07-15.12.37:828][904]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.EmitterSpawnScript' is in-sync skipping compile..
+[2019.11.07-15.12.37:828][904]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.EmitterUpdateScript' is in-sync skipping compile..
+[2019.11.07-15.12.37:828][904]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:SystemSpawnScript' is in-sync skipping compile..
+[2019.11.07-15.12.37:828][904]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:SystemUpdateScript' is in-sync skipping compile..
+[2019.11.07-15.12.37:999][920]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.SpawnScript took 0.171073 sec (0.012506/0.158450)... Status NCS_UpToDate
+[2019.11.07-15.12.38:001][920]LogNiagara: UNiagraScript 'NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.SpawnScript' was built locally..
+[2019.11.07-15.12.38:043][921]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 55
+[2019.11.07-15.12.38:070][921]89852_NiagaraSystem_0_MessageLog: System successfully compiled.
+[2019.11.07-15.12.38:434][963]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 54
+[2019.11.07-15.12.38:607][983]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 53
+[2019.11.07-15.12.38:991][ 23]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 52
+[2019.11.07-15.12.39:033][ 28]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 51
+[2019.11.07-15.12.39:036][ 28]LogNiagara: Updating script usage: Script->IsInterpolatdSpawn 1 Emitter->bInterpolatedSpawning 1
+[2019.11.07-15.12.39:115][ 28]LogNiagaraEditor: Verbose: '/Engine/Transient' Precompile took 0.078838 sec.
+[2019.11.07-15.12.39:116][ 28]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.UpdateScript' is in-sync skipping compile..
+[2019.11.07-15.12.39:116][ 28]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.EmitterSpawnScript' is in-sync skipping compile..
+[2019.11.07-15.12.39:116][ 28]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.EmitterUpdateScript' is in-sync skipping compile..
+[2019.11.07-15.12.39:116][ 28]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:SystemSpawnScript' is in-sync skipping compile..
+[2019.11.07-15.12.39:116][ 28]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:SystemUpdateScript' is in-sync skipping compile..
+[2019.11.07-15.12.39:214][ 28]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 50
+[2019.11.07-15.12.39:214][ 28]89852_NiagaraSystem_0_MessageLog: System successfully compiled.
+[2019.11.07-15.12.39:685][ 82]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 49
+[2019.11.07-15.12.39:729][ 87]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 48
+[2019.11.07-15.12.40:239][145]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 47
+[2019.11.07-15.12.40:326][155]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 46
+[2019.11.07-15.12.40:440][168]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 45
+[2019.11.07-15.12.40:911][219]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 44
+[2019.11.07-15.12.41:227][255]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 43
+[2019.11.07-15.12.41:419][275]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 42
+[2019.11.07-15.12.41:750][310]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 41
+[2019.11.07-15.12.42:023][341]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 40
+[2019.11.07-15.12.42:280][370]LogNiagara: Updating script usage: Script->IsInterpolatdSpawn 0 Emitter->bInterpolatedSpawning 0
+[2019.11.07-15.12.42:361][370]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 39
+[2019.11.07-15.12.42:361][370]LogNiagaraEditor: Verbose: '/Engine/Transient' Precompile took 0.080635 sec.
+[2019.11.07-15.12.42:361][370]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.UpdateScript' is in-sync skipping compile..
+[2019.11.07-15.12.42:361][370]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.EmitterSpawnScript' is in-sync skipping compile..
+[2019.11.07-15.12.42:361][370]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.EmitterUpdateScript' is in-sync skipping compile..
+[2019.11.07-15.12.42:361][370]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:SystemSpawnScript' is in-sync skipping compile..
+[2019.11.07-15.12.42:361][370]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:SystemUpdateScript' is in-sync skipping compile..
+[2019.11.07-15.12.42:460][370]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 38
+[2019.11.07-15.12.42:460][370]89852_NiagaraSystem_0_MessageLog: System successfully compiled.
+[2019.11.07-15.12.42:840][413]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 37
+[2019.11.07-15.12.42:995][430]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 36
+[2019.11.07-15.12.43:473][477]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 35
+[2019.11.07-15.12.44:003][527]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 34
+[2019.11.07-15.12.44:274][555]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 33
+[2019.11.07-15.12.45:262][664]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 32
+[2019.11.07-15.12.45:262][664]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 31
+[2019.11.07-15.12.45:870][733]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 30
+[2019.11.07-15.12.46:120][759]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 29
+[2019.11.07-15.12.46:720][820]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 28
+[2019.11.07-15.12.46:881][838]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 27
+[2019.11.07-15.12.46:882][838]MaterialEditorStats: Base pass shader: 77 instructions
+[2019.11.07-15.12.46:882][838]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 98 instructions
+[2019.11.07-15.12.46:882][838]MaterialEditorStats: Base pass vertex shader: 141 instructions
+[2019.11.07-15.12.46:882][838]MaterialEditorStats: Texture samplers: 4/16
+[2019.11.07-15.12.46:882][838]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.11.07-15.12.46:930][842]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 26
+[2019.11.07-15.12.47:468][899]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 25
+[2019.11.07-15.12.47:572][910]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 24
+[2019.11.07-15.12.47:886][946]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 23
+[2019.11.07-15.12.48:205][981]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 22
+[2019.11.07-15.12.48:218][982]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 21
+[2019.11.07-15.12.48:244][985]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 20
+[2019.11.07-15.12.48:834][ 43]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 19
+[2019.11.07-15.12.49:639][125]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 18
+[2019.11.07-15.12.49:807][144]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 17
+[2019.11.07-15.12.49:824][146]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 16
+[2019.11.07-15.12.50:370][205]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 15
+[2019.11.07-15.12.50:717][244]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 14
+[2019.11.07-15.12.50:771][250]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 13
+[2019.11.07-15.12.51:196][298]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 12
+[2019.11.07-15.12.51:320][311]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11
+[2019.11.07-15.12.51:448][326]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 10
+[2019.11.07-15.12.51:923][380]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2019.11.07-15.12.51:932][381]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 8
+[2019.11.07-15.12.52:073][397]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 7
+[2019.11.07-15.12.52:605][456]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 6
+[2019.11.07-15.12.52:658][462]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2019.11.07-15.12.52:713][468]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 4
+[2019.11.07-15.12.53:178][522]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2019.11.07-15.12.53:406][548]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2019.11.07-15.12.53:486][557]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2019.11.07-15.12.54:003][616]MaterialEditorStats: Base pass shader: 120 instructions
+[2019.11.07-15.12.54:003][616]MaterialEditorStats: Base pass shader with Surface Lightmap: 147 instructions
+[2019.11.07-15.12.54:003][616]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2019.11.07-15.12.54:003][616]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.11.07-15.12.54:003][616]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.07-15.13.40:707][206]LogNiagaraEditor: Verbose: '/Engine/Transient' Precompile took 0.052293 sec.
+[2019.11.07-15.13.40:707][206]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.SpawnScript ...................................................................
+[2019.11.07-15.13.40:707][206]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.EmitterSpawnScript' is in-sync skipping compile..
+[2019.11.07-15.13.40:707][206]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.UpdateScript ...................................................................
+[2019.11.07-15.13.40:708][206]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.EmitterUpdateScript' is in-sync skipping compile..
+[2019.11.07-15.13.40:708][206]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:SystemSpawnScript' is in-sync skipping compile..
+[2019.11.07-15.13.40:708][206]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:SystemUpdateScript' is in-sync skipping compile..
+[2019.11.07-15.13.40:866][224]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.SpawnScript took 0.156488 sec (0.012730/0.143655)... Status NCS_UpToDate
+[2019.11.07-15.13.40:866][224]LogNiagara: UNiagraScript 'NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.SpawnScript' was built locally..
+[2019.11.07-15.13.40:948][234]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.UpdateScript took 0.235529 sec (0.018525/0.079154)... Status NCS_UpToDate
+[2019.11.07-15.13.40:950][234]LogNiagara: UNiagraScript 'NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.UpdateScript' was built locally..
+[2019.11.07-15.13.41:010][235]89852_NiagaraSystem_0_MessageLog: System successfully compiled.
+[2019.11.07-15.13.45:087][718]LogNiagaraEditor: Verbose: '/Engine/Transient' Precompile took 0.052024 sec.
+[2019.11.07-15.13.45:088][718]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.SpawnScript ...................................................................
+[2019.11.07-15.13.45:088][718]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.EmitterSpawnScript' is in-sync skipping compile..
+[2019.11.07-15.13.45:088][718]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.UpdateScript ...................................................................
+[2019.11.07-15.13.45:088][718]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.EmitterUpdateScript' is in-sync skipping compile..
+[2019.11.07-15.13.45:088][718]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:SystemSpawnScript' is in-sync skipping compile..
+[2019.11.07-15.13.45:088][718]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:SystemUpdateScript' is in-sync skipping compile..
+[2019.11.07-15.13.45:245][736]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.SpawnScript took 0.155358 sec (0.012025/0.143237)... Status NCS_UpToDate
+[2019.11.07-15.13.45:247][736]LogNiagara: UNiagraScript 'NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.SpawnScript' was built locally..
+[2019.11.07-15.13.45:333][745]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.UpdateScript took 0.237504 sec (0.018987/0.082243)... Status NCS_UpToDate
+[2019.11.07-15.13.45:336][746]LogNiagara: UNiagraScript 'NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.UpdateScript' was built locally..
+[2019.11.07-15.13.45:399][747]89852_NiagaraSystem_0_MessageLog: System successfully compiled.
+[2019.11.07-15.14.42:874][619]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.07-15.15.25:965][782]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.07-15.15.43:125][838]Cmd: TRANSACTION UNDO
+[2019.11.07-15.15.43:125][838]LogEditorTransaction: Undo Mouse Drag
+[2019.11.07-15.15.43:199][838]LogMaterial: Display: Missing cached shader map for material myTrail1, compiling. 
+[2019.11.07-15.15.43:225][838]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 45
+[2019.11.07-15.15.43:225][838]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 44
+[2019.11.07-15.15.43:225][838]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 43
+[2019.11.07-15.15.43:225][838]LogMaterial: Display: Missing cached shader map for material M_Basic_Wall, compiling. 
+[2019.11.07-15.15.43:544][863]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 72
+[2019.11.07-15.15.43:596][868]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 71
+[2019.11.07-15.15.43:840][897]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 70
+[2019.11.07-15.15.43:848][898]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 69
+[2019.11.07-15.15.43:954][910]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 68
+[2019.11.07-15.15.44:086][925]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 67
+[2019.11.07-15.15.44:093][926]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 66
+[2019.11.07-15.15.44:320][952]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 65
+[2019.11.07-15.15.44:337][954]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 64
+[2019.11.07-15.15.44:453][967]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 63
+[2019.11.07-15.15.44:471][969]Cmd: TRANSACTION UNDO
+[2019.11.07-15.15.44:471][969]LogEditorTransaction: Undo Mouse Drag
+[2019.11.07-15.15.44:558][969]LogMaterial: Display: Missing cached shader map for material myTrail1, compiling. 
+[2019.11.07-15.15.44:586][969]LogMaterial: Display: Missing cached shader map for material M_Basic_Wall, compiling. 
+[2019.11.07-15.15.44:731][981]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 75
+[2019.11.07-15.15.44:782][987]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 74
+[2019.11.07-15.15.44:783][987]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 73
+[2019.11.07-15.15.45:097][ 22]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 72
+[2019.11.07-15.15.45:137][ 25]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 71
+[2019.11.07-15.15.45:488][ 60]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 70
+[2019.11.07-15.15.45:563][ 69]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 69
+[2019.11.07-15.15.45:860][103]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 68
+[2019.11.07-15.15.45:974][116]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 67
+[2019.11.07-15.15.46:210][143]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 66
+[2019.11.07-15.15.46:414][164]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 65
+[2019.11.07-15.15.46:730][200]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 64
+[2019.11.07-15.15.46:931][223]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 63
+[2019.11.07-15.15.47:415][278]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 62
+[2019.11.07-15.15.47:455][282]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 61
+[2019.11.07-15.15.47:608][299]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 60
+[2019.11.07-15.15.47:762][316]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 59
+[2019.11.07-15.15.47:935][332]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 58
+[2019.11.07-15.15.48:074][346]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 57
+[2019.11.07-15.15.48:290][367]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 56
+[2019.11.07-15.15.48:685][412]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 55
+[2019.11.07-15.15.49:547][508]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 54
+[2019.11.07-15.15.50:015][560]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 53
+[2019.11.07-15.15.50:906][662]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 52
+[2019.11.07-15.15.50:956][667]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 51
+[2019.11.07-15.15.51:411][712]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 50
+[2019.11.07-15.15.51:981][772]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 49
+[2019.11.07-15.15.52:093][785]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 48
+[2019.11.07-15.15.52:439][825]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 47
+[2019.11.07-15.15.52:637][848]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 46
+[2019.11.07-15.15.52:872][875]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 45
+[2019.11.07-15.15.53:209][912]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 44
+[2019.11.07-15.15.53:611][958]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 43
+[2019.11.07-15.15.53:645][962]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 42
+[2019.11.07-15.15.53:975][998]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 41
+[2019.11.07-15.15.54:289][ 34]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 40
+[2019.11.07-15.15.54:684][ 79]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 39
+[2019.11.07-15.15.54:840][ 96]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 38
+[2019.11.07-15.15.55:201][137]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 37
+[2019.11.07-15.15.55:452][163]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 36
+[2019.11.07-15.15.55:921][216]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 35
+[2019.11.07-15.15.55:921][216]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 34
+[2019.11.07-15.15.56:248][254]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 33
+[2019.11.07-15.15.56:538][286]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 32
+[2019.11.07-15.15.56:977][336]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 31
+[2019.11.07-15.15.57:131][354]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 30
+[2019.11.07-15.15.57:722][422]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 29
+[2019.11.07-15.15.57:777][426]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 28
+[2019.11.07-15.15.57:778][426]MaterialEditorStats: Base pass shader: 77 instructions
+[2019.11.07-15.15.57:778][426]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 98 instructions
+[2019.11.07-15.15.57:778][426]MaterialEditorStats: Base pass vertex shader: 141 instructions
+[2019.11.07-15.15.57:778][426]MaterialEditorStats: Texture samplers: 4/16
+[2019.11.07-15.15.57:779][426]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.11.07-15.15.57:909][440]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 27
+[2019.11.07-15.15.58:472][496]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 26
+[2019.11.07-15.15.58:515][501]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 25
+[2019.11.07-15.15.58:676][519]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 24
+[2019.11.07-15.15.58:999][539]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 23
+[2019.11.07-15.15.58:999][539]LogNiagaraEditor: Verbose: '/Engine/Transient' Precompile took 0.054864 sec.
+[2019.11.07-15.15.58:999][539]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.SpawnScript ...................................................................
+[2019.11.07-15.15.58:999][539]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.EmitterSpawnScript' is in-sync skipping compile..
+[2019.11.07-15.15.58:999][539]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.UpdateScript ...................................................................
+[2019.11.07-15.15.58:999][539]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.EmitterUpdateScript' is in-sync skipping compile..
+[2019.11.07-15.15.58:999][539]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:SystemSpawnScript' is in-sync skipping compile..
+[2019.11.07-15.15.58:999][539]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:SystemUpdateScript' is in-sync skipping compile..
+[2019.11.07-15.15.59:184][558]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.SpawnScript took 0.180682 sec (0.012629/0.167955)... Status NCS_UpToDate
+[2019.11.07-15.15.59:186][558]LogNiagara: UNiagraScript 'NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.SpawnScript' was built locally..
+[2019.11.07-15.15.59:269][566]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.UpdateScript took 0.263350 sec (0.017014/0.082635)... Status NCS_UpToDate
+[2019.11.07-15.15.59:272][567]LogNiagara: UNiagraScript 'NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.UpdateScript' was built locally..
+[2019.11.07-15.15.59:336][568]89852_NiagaraSystem_0_MessageLog: System successfully compiled.
+[2019.11.07-15.15.59:489][585]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 22
+[2019.11.07-15.15.59:674][606]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2019.11.07-15.15.59:719][611]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 20
+[2019.11.07-15.16.00:264][673]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 19
+[2019.11.07-15.16.01:246][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 18
+[2019.11.07-15.16.01:246][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 17
+[2019.11.07-15.16.01:483][754]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 16
+[2019.11.07-15.16.02:086][761]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 15
+[2019.11.07-15.16.02:146][762]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 14
+[2019.11.07-15.16.02:264][764]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 13
+[2019.11.07-15.16.02:855][773]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 12
+[2019.11.07-15.16.02:965][775]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11
+[2019.11.07-15.16.02:965][775]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 10
+[2019.11.07-15.16.03:610][784]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 9
+[2019.11.07-15.16.03:815][788]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2019.11.07-15.16.03:881][789]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 7
+[2019.11.07-15.16.04:361][797]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2019.11.07-15.16.04:425][798]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2019.11.07-15.16.04:624][800]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2019.11.07-15.16.05:169][808]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2019.11.07-15.16.05:230][809]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2019.11.07-15.16.05:448][811]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2019.11.07-15.16.06:706][814]MaterialEditorStats: Base pass shader: 120 instructions
+[2019.11.07-15.16.06:706][814]MaterialEditorStats: Base pass shader with Surface Lightmap: 147 instructions
+[2019.11.07-15.16.06:706][814]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2019.11.07-15.16.06:706][814]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.11.07-15.16.06:706][814]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.07-15.16.31:038][101]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.07-15.16.41:152][299]LogNiagaraEditor: Verbose: '/Engine/Transient' Precompile took 0.052230 sec.
+[2019.11.07-15.16.41:152][299]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.SpawnScript ...................................................................
+[2019.11.07-15.16.41:152][299]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.EmitterSpawnScript' is in-sync skipping compile..
+[2019.11.07-15.16.41:152][299]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.UpdateScript ...................................................................
+[2019.11.07-15.16.41:152][299]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.EmitterUpdateScript' is in-sync skipping compile..
+[2019.11.07-15.16.41:152][299]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:SystemSpawnScript' is in-sync skipping compile..
+[2019.11.07-15.16.41:152][299]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:SystemUpdateScript' is in-sync skipping compile..
+[2019.11.07-15.16.41:259][311]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.SpawnScript took 0.101726 sec (0.008148/0.093495)... Status NCS_UpToDate
+[2019.11.07-15.16.41:261][311]LogNiagara: UNiagraScript 'NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.SpawnScript' was built locally..
+[2019.11.07-15.16.41:326][319]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.UpdateScript took 0.170862 sec (0.012594/0.069235)... Status NCS_UpToDate
+[2019.11.07-15.16.41:329][319]LogNiagara: UNiagraScript 'NiagaraScript /Engine/Transient.NiagaraSystem_0:My1Niagara.UpdateScript' was built locally..
+[2019.11.07-15.16.41:389][320]89852_NiagaraSystem_0_MessageLog: System successfully compiled.
+[2019.11.07-15.26.31:040][973]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.07-15.26.44:798][572]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.11.07-15.26.44:798][572]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.11.07-15.27.09:929][ 90]LogSlate: Window 'Message' being destroyed
+[2019.11.07-15.27.09:934][ 90]LogNiagaraEditor: Warning: Cleanup System view model 000001EF7ACFC800
+[2019.11.07-15.27.09:949][ 90]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2019.11.07-15.27.09:973][ 90]LogNiagaraEditor: Warning: Cleanup System view model 000001EF7ACFC800
+[2019.11.07-15.27.09:973][ 90]LogNiagaraEditor: Warning: Deleting System view model 000001EF7ACFC800
+[2019.11.07-15.27.13:937][562]LogLinker: Warning: While loading 'D:/Project/ellipse1/Content/StarterContent/Materials/Trail/P_Skill_Throw_Ice_Trail_ForceTron.uasset' failed to load '/Game/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_06_INST': Can't find file.
+[2019.11.07-15.27.13:937][562]LogLinker: Warning: While loading 'D:/Project/ellipse1/Content/StarterContent/Materials/Trail/P_Skill_Throw_Ice_Trail_ForceTron.uasset' failed to load '/Game/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_06_INST': Can't find file.
+[2019.11.07-15.27.13:937][562]LogLinker: Warning: While loading 'D:/Project/ellipse1/Content/StarterContent/Materials/Trail/P_Skill_Throw_Ice_Trail_ForceTron.uasset' failed to load '/Game/InfinityBladeEffects/Effects/FX_Materials/Trails/M_Trail_Ice_01_INST': Can't find file.
+[2019.11.07-15.27.13:937][562]LogLinker: Warning: While loading 'D:/Project/ellipse1/Content/StarterContent/Materials/Trail/P_Skill_Throw_Ice_Trail_ForceTron.uasset' failed to load '/Game/InfinityBladeEffects/Effects/FX_Materials/Trails/M_Trail_Ice_01_INST': Can't find file.
+[2019.11.07-15.27.13:938][562]LogLinker: Warning: While loading 'D:/Project/ellipse1/Content/StarterContent/Materials/Trail/P_Skill_Throw_Ice_Trail_ForceTron.uasset' failed to load '/Game/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_06_INST': Can't find file.
+[2019.11.07-15.27.13:938][562]LogLinker: Warning: While loading 'D:/Project/ellipse1/Content/StarterContent/Materials/Trail/P_Skill_Throw_Ice_Trail_ForceTron.uasset' failed to load '/Game/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_06_INST': Can't find file.
+[2019.11.07-15.27.13:938][562]LogLinker: Warning: While loading 'D:/Project/ellipse1/Content/StarterContent/Materials/Trail/P_Skill_Throw_Ice_Trail_ForceTron.uasset' failed to load '/Game/InfinityBladeEffects/Effects/FX_Materials/Trails/M_Trail_Ice_01_INST': Can't find file.
+[2019.11.07-15.27.13:938][562]LogLinker: Warning: While loading 'D:/Project/ellipse1/Content/StarterContent/Materials/Trail/P_Skill_Throw_Ice_Trail_ForceTron.uasset' failed to load '/Game/InfinityBladeEffects/Effects/FX_Materials/Trails/M_Trail_Ice_01_INST': Can't find file.
+[2019.11.07-15.27.13:939][562]LogLinker: Warning: While loading 'D:/Project/ellipse1/Content/StarterContent/Materials/Trail/P_Skill_Throw_Ice_Trail_ForceTron.uasset' failed to load '/Game/InfinityBladeEffects/Effects/FX_Materials/Trails/M_Trail_Ice_01_INST': Can't find file.
+[2019.11.07-15.27.13:940][562]LoadErrors: Failed to load /Game/InfinityBladeEffects/Effects/FX_Materials/Trails/M_Trail_Ice_01_INST.M_Trail_Ice_01_INST Referenced by ParticleModuleRequired_0
+[2019.11.07-15.27.13:940][562]LogLinker: Warning: While loading 'D:/Project/ellipse1/Content/StarterContent/Materials/Trail/P_Skill_Throw_Ice_Trail_ForceTron.uasset' failed to load '/Game/InfinityBladeEffects/Effects/FX_Materials/Trails/M_Trail_Ice_01_INST': Can't find file.
+[2019.11.07-15.27.13:940][562]LogLinker: Warning: While loading 'D:/Project/ellipse1/Content/StarterContent/Materials/Trail/P_Skill_Throw_Ice_Trail_ForceTron.uasset' failed to load '/Game/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_06_INST': Can't find file.
+[2019.11.07-15.27.13:940][562]LoadErrors: Failed to load /Game/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_06_INST.M_Flare_06_INST Referenced by ParticleModuleRequired_18
+[2019.11.07-15.27.13:940][562]LogLinker: Warning: While loading 'D:/Project/ellipse1/Content/StarterContent/Materials/Trail/P_Skill_Throw_Ice_Trail_ForceTron.uasset' failed to load '/Game/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_06_INST': Can't find file.
+[2019.11.07-15.27.14:052][562]LogUObjectHash: Compacting FUObjectHashTables data took   7.15ms
+[2019.11.07-15.27.19:873][562]LogSlate: Window 'Delete Assets' being destroyed
+[2019.11.07-15.27.20:900][562]LogSlate: Window 'Message' being destroyed
+[2019.11.07-15.27.21:350][562]LogMaterial: Display: Missing cached shader map for material myTrail1, compiling. 
+[2019.11.07-15.27.21:440][562]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 45
+[2019.11.07-15.27.21:440][562]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 44
+[2019.11.07-15.27.21:440][562]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 43
+[2019.11.07-15.27.21:451][562]LogMaterial: Display: Missing cached shader map for material myTrail1, compiling. 
+[2019.11.07-15.27.21:527][562]LogMaterial: Display: Missing cached shader map for material myTrail1, compiling. 
+[2019.11.07-15.27.21:635][562]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2019.11.07-15.27.21:646][562]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.11.07-15.27.27:409][562]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 195
+[2019.11.07-15.27.27:409][562]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 194
+[2019.11.07-15.27.27:409][562]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 193
+[2019.11.07-15.27.27:409][562]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 192
+[2019.11.07-15.27.27:409][562]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 191
+[2019.11.07-15.27.27:409][562]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 190
+[2019.11.07-15.27.27:409][562]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 189
+[2019.11.07-15.27.27:409][562]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 188
+[2019.11.07-15.27.27:409][562]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 187
+[2019.11.07-15.27.27:409][562]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 186
+[2019.11.07-15.27.27:409][562]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 185
+[2019.11.07-15.27.27:409][562]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 184
+[2019.11.07-15.27.27:409][562]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 183
+[2019.11.07-15.27.27:409][562]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 182
+[2019.11.07-15.27.27:409][562]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 181
+[2019.11.07-15.27.27:409][562]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 180
+[2019.11.07-15.27.27:409][562]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 179
+[2019.11.07-15.27.27:409][562]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 178
+[2019.11.07-15.27.27:409][562]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 177
+[2019.11.07-15.27.27:409][562]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 176
+[2019.11.07-15.27.27:409][562]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 175
+[2019.11.07-15.27.27:409][562]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 174
+[2019.11.07-15.27.27:409][562]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 173
+[2019.11.07-15.27.27:409][562]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 172
+[2019.11.07-15.27.27:409][562]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 171
+[2019.11.07-15.27.27:409][562]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 170
+[2019.11.07-15.27.27:409][562]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 169
+[2019.11.07-15.27.27:409][562]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 168
+[2019.11.07-15.27.27:409][562]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 167
+[2019.11.07-15.27.27:409][562]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 166
+[2019.11.07-15.27.27:409][562]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 165
+[2019.11.07-15.27.27:409][562]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 164
+[2019.11.07-15.27.27:409][562]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 163
+[2019.11.07-15.27.27:409][562]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 162
+[2019.11.07-15.27.27:409][562]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 161
+[2019.11.07-15.27.27:409][562]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 160
+[2019.11.07-15.27.27:409][562]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 159
+[2019.11.07-15.27.27:409][562]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 158
+[2019.11.07-15.27.27:409][562]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 157
+[2019.11.07-15.27.27:409][562]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 156
+[2019.11.07-15.27.27:409][562]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 155
+[2019.11.07-15.27.27:409][562]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 154
+[2019.11.07-15.27.27:409][562]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 153
+[2019.11.07-15.27.27:409][562]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 152
+[2019.11.07-15.27.27:409][562]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 151
+[2019.11.07-15.27.27:409][562]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 141
+[2019.11.07-15.27.27:409][562]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 131
+[2019.11.07-15.27.27:413][562]TextureStreamingBuild: Display: Compiling optional shaders took 5.778 seconds.
+[2019.11.07-15.27.27:445][562]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2019.11.07-15.27.27:471][562]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2019.11.07-15.27.27:497][562]LogUObjectGlobals: Force Deleting 5 Package(s):
+	Asset Name: /Game/StarterContent/Materials/Trail/P_Skill_Throw_Ice_Trail_ForceTron.P_Skill_Throw_Ice_Trail_ForceTron
+	Asset Name: /Game/StarterContent/Materials/Trail/NewParticleSystem1.NewParticleSystem1
+	Asset Name: /Game/StarterContent/Materials/Trail/NewParticleSystem.NewParticleSystem
+	Asset Name: /Game/StarterContent/Materials/Trail/myTrail1.myTrail1
+	Asset Name: /Game/StarterContent/Materials/Trail/My1Niagara.My1Niagara
+[2019.11.07-15.27.29:725][562]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 121
+[2019.11.07-15.27.39:760][562]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 111
+[2019.11.07-15.27.39:760][562]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 101
+[2019.11.07-15.27.39:760][562]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 91
+[2019.11.07-15.27.39:760][562]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 81
+[2019.11.07-15.27.39:767][562]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
+[2019.11.07-15.27.44:615][562]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 71
+[2019.11.07-15.27.44:615][562]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 61
+[2019.11.07-15.27.44:615][562]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2019.11.07-15.27.48:259][562]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 51
+[2019.11.07-15.27.48:259][562]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 41
+[2019.11.07-15.27.48:259][562]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2019.11.07-15.27.48:298][562]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2019.11.07-15.27.48:334][562]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2019.11.07-15.27.48:369][562]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2019.11.07-15.27.48:405][562]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2019.11.07-15.27.52:275][975]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 31
+[2019.11.07-15.27.52:693][ 22]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2019.11.07-15.27.53:425][ 67]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 13
+[2019.11.07-15.27.55:345][ 67]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2019.11.07-15.27.55:969][ 67]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 5
+[2019.11.07-15.27.56:055][ 67]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2019.11.07-15.27.56:637][ 67]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2019.11.07-15.28.35:986][ 67]LogSlate: Window 'Pick a starting point for your emitter' being destroyed
+[2019.11.07-15.28.36:081][ 67]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2019.11.07-15.28.58:977][319]LogSlate: Window 'Pick a starting point for your system' being destroyed
+[2019.11.07-15.29.06:965][260]LogNiagaraEditor: Warning: Cleanup System view model 000001EF5E405410
+[2019.11.07-15.29.06:967][260]LogNiagaraEditor: Warning: Deleting System view model 000001EF5E405410
+[2019.11.07-15.29.07:020][260]LogNiagaraEditor: Verbose: '/Game/StarterContent/Materials/Trail/TrackSystem' Precompile took 0.053590 sec.
+[2019.11.07-15.29.07:035][261]LogNiagaraEditor: Compiling System NiagaraScript /Game/StarterContent/Materials/Trail/TrackSystem.TrackSystem:TrackEmitter.SpawnScript ...................................................................
+[2019.11.07-15.29.07:035][261]LogNiagaraEditor: Compiling System NiagaraScript /Game/StarterContent/Materials/Trail/TrackSystem.TrackSystem:TrackEmitter.UpdateScript ...................................................................
+[2019.11.07-15.29.07:035][261]LogNiagaraEditor: Compiling System NiagaraScript /Game/StarterContent/Materials/Trail/TrackSystem.TrackSystem:SystemSpawnScript ...................................................................
+[2019.11.07-15.29.07:267][289]LogNiagaraEditor: Compiling System NiagaraScript /Game/StarterContent/Materials/Trail/TrackSystem.TrackSystem:TrackEmitter.SpawnScript took 0.242328 sec (0.018881/0.223300)... Status NCS_UpToDate
+[2019.11.07-15.29.07:267][289]LogNiagaraEditor: Compiling System NiagaraScript /Game/StarterContent/Materials/Trail/TrackSystem.TrackSystem:SystemUpdateScript ...................................................................
+[2019.11.07-15.29.07:343][298]LogNiagaraEditor: Compiling System NiagaraScript /Game/StarterContent/Materials/Trail/TrackSystem.TrackSystem:TrackEmitter.UpdateScript took 0.319741 sec (0.025089/0.077582)... Status NCS_UpToDate
+[2019.11.07-15.29.07:391][304]LogNiagaraEditor: Compiling System NiagaraScript /Game/StarterContent/Materials/Trail/TrackSystem.TrackSystem:SystemSpawnScript took 0.365525 sec (0.028483/0.046030)... Status NCS_UpToDate
+[2019.11.07-15.29.07:482][315]LogNiagaraEditor: Compiling System NiagaraScript /Game/StarterContent/Materials/Trail/TrackSystem.TrackSystem:SystemUpdateScript took 0.210208 sec (0.007772/0.088656)... Status NCS_UpToDate
+[2019.11.07-15.29.20:715][877]LogNiagara: UNiagraScript 'NiagaraScript /Game/StarterContent/Materials/Trail/TrackSystem.TrackSystem:TrackEmitter.SpawnScript' was built locally..
+[2019.11.07-15.29.20:717][877]LogNiagara: UNiagraScript 'NiagaraScript /Game/StarterContent/Materials/Trail/TrackSystem.TrackSystem:TrackEmitter.UpdateScript' was built locally..
+[2019.11.07-15.29.20:718][877]LogNiagara: UNiagraScript 'NiagaraScript /Game/StarterContent/Materials/Trail/TrackSystem.TrackSystem:SystemSpawnScript' was built locally..
+[2019.11.07-15.29.20:718][877]LogNiagara: UNiagraScript 'NiagaraScript /Game/StarterContent/Materials/Trail/TrackSystem.TrackSystem:SystemUpdateScript' was built locally..
+[2019.11.07-15.29.20:758][877]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2019.11.07-15.29.22:176][877]LogSlate: Window 'Save Content' being destroyed
+[2019.11.07-15.29.22:198][877]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/Trail/TrackEmitter" FILE="D:/Project/ellipse1/Content/StarterContent/Materials/Trail/TrackEmitter.uasset" SILENT=true
+[2019.11.07-15.29.22:258][877]LogSavePackage: Moving 'D:/Project/ellipse1/Saved/TrackEmitter5D763C014827C114CC1DE1B1A4506196.tmp' to 'D:/Project/ellipse1/Content/StarterContent/Materials/Trail/TrackEmitter.uasset'
+[2019.11.07-15.29.22:262][877]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/Trail/TrackSystem" FILE="D:/Project/ellipse1/Content/StarterContent/Materials/Trail/TrackSystem.uasset" SILENT=true
+[2019.11.07-15.29.22:387][877]LogSavePackage: Moving 'D:/Project/ellipse1/Saved/TrackSystemB79E518445A057EE1512B3BC51E0F2A9.tmp' to 'D:/Project/ellipse1/Content/StarterContent/Materials/Trail/TrackSystem.uasset'
+[2019.11.07-15.29.23:644][ 24]LogAssetEditorManager: Opening Asset editor for NiagaraEmitter /Game/StarterContent/Materials/Trail/TrackEmitter.TrackEmitter
+[2019.11.07-15.29.23:689][ 24]LogNiagara: Warning: Failed to activate Niagara System due to invalid asset!
+[2019.11.07-15.29.23:722][ 24]LogNiagaraEditor: Warning: Visible condition failed to bind.  Function: CurlNoiseForce Input: Curl Noise Cone Mask Angle Message: No input found with name = 'Module.Mask Curl Noise'
+[2019.11.07-15.29.23:722][ 24]LogNiagaraEditor: Warning: Visible condition failed to bind.  Function: CurlNoiseForce Input: Curl Noise Cone Mask Falloff Angle Message: No input found with name = 'Module.Mask Curl Noise'
+[2019.11.07-15.29.23:722][ 24]LogNiagaraEditor: Warning: Visible condition failed to bind.  Function: CurlNoiseForce Input: Curl Noise Cone Mask Axis Message: No input found with name = 'Module.Mask Curl Noise'
+[2019.11.07-15.29.23:771][ 24]139270_NiagaraSystem_1_MessageLog: System compile status unknown with 0 warning(s) and 0 error(s).
+[2019.11.07-15.29.23:826][ 24]LogNiagaraEditor: Verbose: '/Engine/Transient' Precompile took 0.054924 sec.
+[2019.11.07-15.29.23:845][ 24]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_1:SystemSpawnScript ...................................................................
+[2019.11.07-15.29.23:845][ 24]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_1:SystemUpdateScript ...................................................................
+[2019.11.07-15.29.23:882][ 26]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_1:SystemSpawnScript took 0.054079 sec (0.003438/0.050584)... Status NCS_UpToDate
+[2019.11.07-15.29.23:884][ 26]LogNiagara: UNiagraScript 'NiagaraScript /Engine/Transient.NiagaraSystem_1:SystemSpawnScript' was built locally..
+[2019.11.07-15.29.23:982][ 35]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_1:SystemUpdateScript took 0.151795 sec (0.011739/0.097802)... Status NCS_UpToDate
+[2019.11.07-15.29.23:983][ 35]LogNiagara: UNiagraScript 'NiagaraScript /Engine/Transient.NiagaraSystem_1:SystemUpdateScript' was built locally..
+[2019.11.07-15.29.24:004][ 35]LogNiagaraEditor: Warning: Visible condition failed to bind.  Function: CurlNoiseForce Input: Curl Noise Cone Mask Angle Message: No input found with name = 'Module.Mask Curl Noise'
+[2019.11.07-15.29.24:004][ 35]LogNiagaraEditor: Warning: Visible condition failed to bind.  Function: CurlNoiseForce Input: Curl Noise Cone Mask Falloff Angle Message: No input found with name = 'Module.Mask Curl Noise'
+[2019.11.07-15.29.24:005][ 35]LogNiagaraEditor: Warning: Visible condition failed to bind.  Function: CurlNoiseForce Input: Curl Noise Cone Mask Axis Message: No input found with name = 'Module.Mask Curl Noise'
+[2019.11.07-15.29.24:043][ 36]LogNiagaraEditor: Warning: Visible condition failed to bind.  Function: CurlNoiseForce Input: Curl Noise Cone Mask Angle Message: No input found with name = 'Module.Mask Curl Noise'
+[2019.11.07-15.29.24:043][ 36]LogNiagaraEditor: Warning: Visible condition failed to bind.  Function: CurlNoiseForce Input: Curl Noise Cone Mask Falloff Angle Message: No input found with name = 'Module.Mask Curl Noise'
+[2019.11.07-15.29.24:043][ 36]LogNiagaraEditor: Warning: Visible condition failed to bind.  Function: CurlNoiseForce Input: Curl Noise Cone Mask Axis Message: No input found with name = 'Module.Mask Curl Noise'
+[2019.11.07-15.29.24:060][ 37]139270_NiagaraSystem_1_MessageLog: System successfully compiled.
+[2019.11.07-15.29.32:154][275]LogSlate: Window 'TrackEmitter' being destroyed
+[2019.11.07-15.29.41:872][439]LogNiagaraEditor: Warning: Cleanup System view model 000001EF6514F000
+[2019.11.07-15.29.41:883][439]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2019.11.07-15.29.41:900][439]LogNiagaraEditor: Warning: Cleanup System view model 000001EF6514F000
+[2019.11.07-15.29.41:900][439]LogNiagaraEditor: Warning: Deleting System view model 000001EF6514F000
+[2019.11.07-15.29.45:727][891]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2019.11.07-15.29.47:441][891]LogSlate: Window 'Delete Assets' being destroyed
+[2019.11.07-15.29.47:537][891]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2019.11.07-15.29.47:569][891]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2019.11.07-15.29.47:603][891]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2019.11.07-15.29.47:634][891]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2019.11.07-15.30.04:242][488]LogSlate: Window 'Pick a starting point for your emitter' being destroyed
+[2019.11.07-15.30.04:306][488]LogTexture: Display: Building textures: Texture2D_2 (DXT1, 512X512)
+[2019.11.07-15.30.18:291][642]LogSlate: Window 'Pick a starting point for your system' being destroyed
+[2019.11.07-15.30.21:128][975]LogNiagaraEditor: Warning: Cleanup System view model 000001EF7B251C10
+[2019.11.07-15.30.21:129][975]LogNiagaraEditor: Warning: Deleting System view model 000001EF7B251C10
+[2019.11.07-15.30.21:179][975]LogNiagaraEditor: Verbose: '/Game/StarterContent/Materials/Trail/NewNiagaraSystem' Precompile took 0.049184 sec.
+[2019.11.07-15.30.21:197][976]LogNiagaraEditor: Compiling System NiagaraScript /Game/StarterContent/Materials/Trail/NewNiagaraSystem.NewNiagaraSystem:TrackEmitter.SpawnScript ...................................................................
+[2019.11.07-15.30.21:197][976]LogNiagaraEditor: Compiling System NiagaraScript /Game/StarterContent/Materials/Trail/NewNiagaraSystem.NewNiagaraSystem:TrackEmitter.UpdateScript ...................................................................
+[2019.11.07-15.30.21:197][976]LogNiagaraEditor: Compiling System NiagaraScript /Game/StarterContent/Materials/Trail/NewNiagaraSystem.NewNiagaraSystem:SystemSpawnScript ...................................................................
+[2019.11.07-15.30.21:472][  9]LogNiagaraEditor: Compiling System NiagaraScript /Game/StarterContent/Materials/Trail/NewNiagaraSystem.NewNiagaraSystem:TrackEmitter.SpawnScript took 0.287530 sec (0.017664/0.269717)... Status NCS_UpToDate
+[2019.11.07-15.30.21:472][  9]LogNiagaraEditor: Compiling System NiagaraScript /Game/StarterContent/Materials/Trail/NewNiagaraSystem.NewNiagaraSystem:SystemUpdateScript ...................................................................
+[2019.11.07-15.30.21:555][ 19]LogNiagaraEditor: Compiling System NiagaraScript /Game/StarterContent/Materials/Trail/NewNiagaraSystem.NewNiagaraSystem:TrackEmitter.UpdateScript took 0.374424 sec (0.025692/0.087024)... Status NCS_UpToDate
+[2019.11.07-15.30.21:605][ 25]LogNiagaraEditor: Compiling System NiagaraScript /Game/StarterContent/Materials/Trail/NewNiagaraSystem.NewNiagaraSystem:SystemSpawnScript took 0.419656 sec (0.028665/0.045456)... Status NCS_UpToDate
+[2019.11.07-15.30.21:688][ 35]LogNiagaraEditor: Compiling System NiagaraScript /Game/StarterContent/Materials/Trail/NewNiagaraSystem.NewNiagaraSystem:SystemUpdateScript took 0.217896 sec (0.009096/0.087080)... Status NCS_UpToDate
+[2019.11.07-15.30.30:502][ 86]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/Trail/trackSystem" FILE="D:/Project/ellipse1/Content/StarterContent/Materials/Trail/trackSystem.uasset" SILENT=true
+[2019.11.07-15.30.30:512][ 86]LogNiagara: UNiagraScript 'NiagaraScript /Game/StarterContent/Materials/Trail/trackSystem.trackSystem:TrackEmitter.SpawnScript' was built locally..
+[2019.11.07-15.30.30:514][ 86]LogNiagara: UNiagraScript 'NiagaraScript /Game/StarterContent/Materials/Trail/trackSystem.trackSystem:TrackEmitter.UpdateScript' was built locally..
+[2019.11.07-15.30.30:515][ 86]LogNiagara: UNiagraScript 'NiagaraScript /Game/StarterContent/Materials/Trail/trackSystem.trackSystem:SystemSpawnScript' was built locally..
+[2019.11.07-15.30.30:515][ 86]LogNiagara: UNiagraScript 'NiagaraScript /Game/StarterContent/Materials/Trail/trackSystem.trackSystem:SystemUpdateScript' was built locally..
+[2019.11.07-15.30.30:626][ 86]LogSavePackage: Moving 'D:/Project/ellipse1/Saved/trackSystem86E261444AB6B7151EAF718F154DD5D6.tmp' to 'D:/Project/ellipse1/Content/StarterContent/Materials/Trail/trackSystem.uasset'
+[2019.11.07-15.30.30:920][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2019.11.07-15.30.30:958][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2019.11.07-15.30.30:989][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2019.11.07-15.30.33:638][398]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/Trail/trackSystem" FILE="D:/Project/ellipse1/Content/StarterContent/Materials/Trail/trackSystem.uasset" SILENT=true
+[2019.11.07-15.30.33:749][398]LogSavePackage: Moving 'D:/Project/ellipse1/Saved/trackSystem8C73735D423DA8E00DBA19A9B9759BBF.tmp' to 'D:/Project/ellipse1/Content/StarterContent/Materials/Trail/trackSystem.uasset'
+[2019.11.07-15.30.33:756][398]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/Trail/TrackEmitter" FILE="D:/Project/ellipse1/Content/StarterContent/Materials/Trail/TrackEmitter.uasset" SILENT=true
+[2019.11.07-15.30.33:811][398]LogSavePackage: Moving 'D:/Project/ellipse1/Saved/TrackEmitterCD7CA61C4DC232D09B2B8CB72499EA2B.tmp' to 'D:/Project/ellipse1/Content/StarterContent/Materials/Trail/TrackEmitter.uasset'
+[2019.11.07-15.30.35:009][538]LogAssetEditorManager: Opening Asset editor for NiagaraEmitter /Game/StarterContent/Materials/Trail/TrackEmitter.TrackEmitter
+[2019.11.07-15.30.35:044][538]LogNiagara: Warning: Failed to activate Niagara System due to invalid asset!
+[2019.11.07-15.30.35:116][538]133339_NiagaraSystem_2_MessageLog: System compile status unknown with 0 warning(s) and 0 error(s).
+[2019.11.07-15.30.35:165][538]LogNiagaraEditor: Verbose: '/Engine/Transient' Precompile took 0.048681 sec.
+[2019.11.07-15.30.35:175][538]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_2:SystemSpawnScript ...................................................................
+[2019.11.07-15.30.35:175][538]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_2:SystemUpdateScript ...................................................................
+[2019.11.07-15.30.35:222][540]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_2:SystemSpawnScript took 0.048793 sec (0.002935/0.045796)... Status NCS_UpToDate
+[2019.11.07-15.30.35:224][540]LogNiagara: UNiagraScript 'NiagaraScript /Engine/Transient.NiagaraSystem_2:SystemSpawnScript' was built locally..
+[2019.11.07-15.30.35:317][550]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_2:SystemUpdateScript took 0.147961 sec (0.009942/0.099228)... Status NCS_UpToDate
+[2019.11.07-15.30.35:318][550]LogNiagara: UNiagraScript 'NiagaraScript /Engine/Transient.NiagaraSystem_2:SystemUpdateScript' was built locally..
+[2019.11.07-15.30.35:375][552]133339_NiagaraSystem_2_MessageLog: System successfully compiled.
+[2019.11.07-15.31.34:935][246]LogNiagaraEditor: Verbose: '/Engine/Transient' Precompile took 0.043926 sec.
+[2019.11.07-15.31.34:936][246]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_2:TrackEmitter.SpawnScript' is in-sync skipping compile..
+[2019.11.07-15.31.34:936][246]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_2:TrackEmitter.UpdateScript' is in-sync skipping compile..
+[2019.11.07-15.31.34:967][247]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_2:SystemSpawnScript ...................................................................
+[2019.11.07-15.31.34:967][247]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_2:SystemUpdateScript ...................................................................
+[2019.11.07-15.31.34:984][249]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_2:SystemSpawnScript took 0.043693 sec (0.002690/0.040950)... Status NCS_UpToDate
+[2019.11.07-15.31.34:985][249]LogNiagara: UNiagraScript 'NiagaraScript /Engine/Transient.NiagaraSystem_2:SystemSpawnScript' was built locally..
+[2019.11.07-15.31.35:044][256]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_2:SystemUpdateScript took 0.102925 sec (0.007033/0.059229)... Status NCS_UpToDate
+[2019.11.07-15.31.35:045][256]LogNiagara: UNiagraScript 'NiagaraScript /Engine/Transient.NiagaraSystem_2:SystemUpdateScript' was built locally..
+[2019.11.07-15.31.35:098][258]133339_NiagaraSystem_2_MessageLog: System successfully compiled.
+[2019.11.07-15.31.35:638][317]LogNiagaraEditor: Verbose: '/Engine/Transient' Precompile took 0.041715 sec.
+[2019.11.07-15.31.35:639][317]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_2:TrackEmitter.SpawnScript' is in-sync skipping compile..
+[2019.11.07-15.31.35:639][317]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_2:TrackEmitter.UpdateScript' is in-sync skipping compile..
+[2019.11.07-15.31.35:668][318]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_2:SystemSpawnScript ...................................................................
+[2019.11.07-15.31.35:668][318]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_2:SystemUpdateScript ...................................................................
+[2019.11.07-15.31.35:693][321]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_2:SystemUpdateScript took 0.052135 sec (0.003441/0.048635)... Status NCS_UpToDate
+[2019.11.07-15.31.35:697][321]LogNiagara: UNiagraScript 'NiagaraScript /Engine/Transient.NiagaraSystem_2:SystemUpdateScript' was built locally..
+[2019.11.07-15.31.35:738][326]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_2:SystemSpawnScript took 0.096798 sec (0.005764/0.044612)... Status NCS_UpToDate
+[2019.11.07-15.31.35:739][326]LogNiagara: UNiagraScript 'NiagaraScript /Engine/Transient.NiagaraSystem_2:SystemSpawnScript' was built locally..
+[2019.11.07-15.31.35:788][328]133339_NiagaraSystem_2_MessageLog: System successfully compiled.
+[2019.11.07-15.31.37:211][498]LogNiagaraEditor: Saving and Compiling NiagaraEmitter TrackEmitter
+[2019.11.07-15.31.37:303][498]LogNiagaraEditor: Verbose: '/Game/StarterContent/Materials/Trail/trackSystem' Precompile took 0.041063 sec.
+[2019.11.07-15.31.37:303][498]LogNiagara: Script 'NiagaraScript /Game/StarterContent/Materials/Trail/trackSystem.trackSystem:TrackEmitter.SpawnScript_0' is in-sync skipping compile..
+[2019.11.07-15.31.37:303][498]LogNiagara: Script 'NiagaraScript /Game/StarterContent/Materials/Trail/trackSystem.trackSystem:TrackEmitter.UpdateScript_1' is in-sync skipping compile..
+[2019.11.07-15.31.37:303][498]LogNiagara: Script 'NiagaraScript /Game/StarterContent/Materials/Trail/trackSystem.trackSystem:TrackEmitter.EmitterSpawnScript_2' is in-sync skipping compile..
+[2019.11.07-15.31.37:303][498]LogNiagara: Script 'NiagaraScript /Game/StarterContent/Materials/Trail/trackSystem.trackSystem:TrackEmitter.EmitterUpdateScript_3' is in-sync skipping compile..
+[2019.11.07-15.31.37:303][498]LogNiagaraEditor: Compiling System NiagaraScript /Game/StarterContent/Materials/Trail/trackSystem.trackSystem:SystemSpawnScript ...................................................................
+[2019.11.07-15.31.37:303][498]LogNiagaraEditor: Compiling System NiagaraScript /Game/StarterContent/Materials/Trail/trackSystem.trackSystem:SystemUpdateScript ...................................................................
+[2019.11.07-15.31.37:322][498]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/Trail/TrackEmitter" FILE="D:/Project/ellipse1/Content/StarterContent/Materials/Trail/TrackEmitter.uasset" SILENT=true
+[2019.11.07-15.31.37:378][498]LogNiagaraEditor: Compiling System NiagaraScript /Game/StarterContent/Materials/Trail/trackSystem.trackSystem:SystemSpawnScript took 0.044502 sec (0.002475/0.041973)... Status NCS_UpToDate
+[2019.11.07-15.31.37:378][498]LogSavePackage: Moving 'D:/Project/ellipse1/Saved/TrackEmitter091DE0B14F7F23ADC4A6F4B7A5246DA9.tmp' to 'D:/Project/ellipse1/Content/StarterContent/Materials/Trail/TrackEmitter.uasset'
+[2019.11.07-15.31.37:397][499]LogNiagaraEditor: Compiling System NiagaraScript /Game/StarterContent/Materials/Trail/trackSystem.trackSystem:SystemUpdateScript took 0.092880 sec (0.006130/0.048361)... Status NCS_UpToDate
+[2019.11.07-15.31.46:266][367]Cmd: TRANSACTION UNDO
+[2019.11.07-15.31.46:266][367]LogEditorTransaction: Undo Remove a module from the stack
