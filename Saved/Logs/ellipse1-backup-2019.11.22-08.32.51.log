@@ -1,0 +1,1162 @@
+﻿Log file open, 11/22/19 12:30:07
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: ellipse1
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.078179
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +4:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin HoudiniNiagara
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin NiagaraExtras
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-8386587
+LogInit: Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1903) (), CPU:         Intel(R) Core(TM) i5-3570 CPU @ 3.40GHz, GPU: NVIDIA GeForce GTX 1050 Ti
+LogInit: Compiled (64-bit): Aug 31 2019 02:04:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Users/Миша.Johnvk-PC/UE4/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.11.22-08.30.08:154][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.11.22-08.30.08:154][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.11.22-08.30.08:154][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Project/ellipse1/Saved/Config/Windows/Engine.ini]
+[2019.11.22-08.30.08:154][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.11.22-08.30.08:154][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2019.11.22-08.30.08:154][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Project/ellipse1/Saved/Config/Windows/Engine.ini]
+[2019.11.22-08.30.08:155][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Project/ellipse1/Saved/Config/Windows/Engine.ini]
+[2019.11.22-08.30.08:155][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.11.22-08.30.08:155][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.11.22-08.30.08:155][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.11.22-08.30.08:155][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.11.22-08.30.08:155][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.11.22-08.30.08:155][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.11.22-08.30.08:155][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.11.22-08.30.08:155][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.11.22-08.30.08:155][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.11.22-08.30.08:155][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.11.22-08.30.08:155][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.11.22-08.30.08:155][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.11.22-08.30.08:155][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.11.22-08.30.08:155][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Project/ellipse1/Saved/Config/Windows/Engine.ini]
+[2019.11.22-08.30.08:155][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.11.22-08.30.08:155][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.11.22-08.30.08:155][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.11.22-08.30.08:155][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.11.22-08.30.08:155][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.11.22-08.30.08:155][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.11.22-08.30.08:155][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.11.22-08.30.08:155][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.11.22-08.30.08:155][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.11.22-08.30.08:155][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.11.22-08.30.08:155][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.11.22-08.30.08:155][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.11.22-08.30.08:155][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.11.22-08.30.08:155][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Project/ellipse1/Saved/Config/Windows/Engine.ini]
+[2019.11.22-08.30.08:155][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Project/ellipse1/Saved/Config/Windows/Engine.ini]
+[2019.11.22-08.30.08:157][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Project/ellipse1/Saved/Config/Windows/Scalability.ini]
+[2019.11.22-08.30.08:157][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.22-08.30.08:157][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.22-08.30.08:157][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Project/ellipse1/Saved/Config/Windows/Scalability.ini]
+[2019.11.22-08.30.08:157][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.22-08.30.08:157][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Project/ellipse1/Saved/Config/Windows/Scalability.ini]
+[2019.11.22-08.30.08:157][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.22-08.30.08:157][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.22-08.30.08:157][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.22-08.30.08:157][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.22-08.30.08:157][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.22-08.30.08:157][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.22-08.30.08:157][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.22-08.30.08:157][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.22-08.30.08:157][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.22-08.30.08:157][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.22-08.30.08:157][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.22-08.30.08:157][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.22-08.30.08:158][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.22-08.30.08:158][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.22-08.30.08:158][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.22-08.30.08:158][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.22-08.30.08:158][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.22-08.30.08:158][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.22-08.30.08:158][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Project/ellipse1/Saved/Config/Windows/Scalability.ini]
+[2019.11.22-08.30.08:158][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.22-08.30.08:158][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.22-08.30.08:158][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.22-08.30.08:158][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.22-08.30.08:158][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.22-08.30.08:158][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.22-08.30.08:158][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.22-08.30.08:158][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.22-08.30.08:158][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.22-08.30.08:158][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.22-08.30.08:158][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.22-08.30.08:158][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.22-08.30.08:158][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.22-08.30.08:158][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.22-08.30.08:158][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.22-08.30.08:158][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.22-08.30.08:158][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.22-08.30.08:158][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.22-08.30.08:158][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.22-08.30.08:158][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.22-08.30.08:158][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.22-08.30.08:158][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.22-08.30.08:158][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.22-08.30.08:158][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.22-08.30.08:158][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.22-08.30.08:158][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.22-08.30.08:158][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.22-08.30.08:158][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.22-08.30.08:158][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.22-08.30.08:158][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.22-08.30.08:158][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Project/ellipse1/Saved/Config/Windows/Scalability.ini]
+[2019.11.22-08.30.08:158][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.22-08.30.08:158][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.22-08.30.08:158][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.22-08.30.08:158][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.22-08.30.08:158][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.22-08.30.08:158][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.22-08.30.08:158][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.22-08.30.08:158][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.22-08.30.08:158][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Project/ellipse1/Saved/Config/Windows/Scalability.ini]
+[2019.11.22-08.30.08:158][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.22-08.30.08:158][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.22-08.30.08:158][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.22-08.30.08:158][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.22-08.30.08:158][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.22-08.30.08:158][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.22-08.30.08:158][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.22-08.30.08:158][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.22-08.30.08:158][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.22-08.30.08:158][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.22-08.30.08:158][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.22-08.30.08:158][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.22-08.30.08:158][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.22-08.30.08:158][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Project/ellipse1/Saved/Config/Windows/Scalability.ini]
+[2019.11.22-08.30.08:158][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.22-08.30.08:158][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.22-08.30.08:159][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.22-08.30.08:159][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.11.22-08.30.08:161][  0]LogHAL: Display: Platform has ~ 16 GB [17123233792 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.11.22-08.30.08:161][  0]LogInit: Going up to parent DeviceProfile []
+[2019.11.22-08.30.08:161][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Project/ellipse1/Saved/Config/Windows/Scalability.ini]
+[2019.11.22-08.30.08:161][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.22-08.30.08:161][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.22-08.30.08:161][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Project/ellipse1/Saved/Config/Windows/Scalability.ini]
+[2019.11.22-08.30.08:161][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.22-08.30.08:161][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Project/ellipse1/Saved/Config/Windows/Scalability.ini]
+[2019.11.22-08.30.08:161][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.22-08.30.08:161][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.22-08.30.08:161][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.22-08.30.08:161][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.22-08.30.08:161][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.22-08.30.08:161][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.22-08.30.08:161][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.22-08.30.08:161][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.22-08.30.08:161][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.22-08.30.08:161][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.22-08.30.08:161][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.22-08.30.08:161][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.22-08.30.08:161][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.22-08.30.08:161][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.22-08.30.08:161][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.22-08.30.08:161][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.22-08.30.08:161][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.22-08.30.08:161][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.22-08.30.08:161][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Project/ellipse1/Saved/Config/Windows/Scalability.ini]
+[2019.11.22-08.30.08:161][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.22-08.30.08:161][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.22-08.30.08:161][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.22-08.30.08:161][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.22-08.30.08:161][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.22-08.30.08:161][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.22-08.30.08:162][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.22-08.30.08:162][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.22-08.30.08:162][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.22-08.30.08:162][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.22-08.30.08:162][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.22-08.30.08:162][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.22-08.30.08:162][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.22-08.30.08:162][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.22-08.30.08:162][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.22-08.30.08:162][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.22-08.30.08:162][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.22-08.30.08:162][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.22-08.30.08:162][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.22-08.30.08:162][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.22-08.30.08:162][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.22-08.30.08:162][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.22-08.30.08:162][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.22-08.30.08:162][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.22-08.30.08:162][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.22-08.30.08:162][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.22-08.30.08:162][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.22-08.30.08:162][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.22-08.30.08:162][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.22-08.30.08:162][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.22-08.30.08:162][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Project/ellipse1/Saved/Config/Windows/Scalability.ini]
+[2019.11.22-08.30.08:162][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.22-08.30.08:162][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.22-08.30.08:162][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.22-08.30.08:162][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.22-08.30.08:162][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.22-08.30.08:162][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.22-08.30.08:162][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.22-08.30.08:162][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.22-08.30.08:162][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Project/ellipse1/Saved/Config/Windows/Scalability.ini]
+[2019.11.22-08.30.08:162][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.22-08.30.08:162][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.22-08.30.08:162][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.22-08.30.08:162][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.22-08.30.08:162][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.22-08.30.08:162][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.22-08.30.08:162][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.22-08.30.08:162][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.22-08.30.08:162][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.22-08.30.08:162][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.22-08.30.08:162][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.22-08.30.08:162][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.22-08.30.08:162][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.22-08.30.08:162][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Project/ellipse1/Saved/Config/Windows/Scalability.ini]
+[2019.11.22-08.30.08:162][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.22-08.30.08:162][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.22-08.30.08:162][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.11.22-08.30.08:162][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.11.22-08.30.08:162][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.11.22-08.30.08:163][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2019.11.22-08.30.08:163][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Project/ellipse1/Saved/Config/Windows/Engine.ini]
+[2019.11.22-08.30.08:163][  0]LogInit: Computer: JOHNVK-PC
+[2019.11.22-08.30.08:163][  0]LogInit: User: Миша
+[2019.11.22-08.30.08:163][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.11.22-08.30.08:163][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.11.22-08.30.08:163][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.11.22-08.30.08:163][  0]LogMemory: Platform Memory Stats for Windows
+[2019.11.22-08.30.08:163][  0]LogMemory: Process Physical Memory: 100.75 MB used, 100.75 MB peak
+[2019.11.22-08.30.08:163][  0]LogMemory: Process Virtual Memory: 87.95 MB used, 87.95 MB peak
+[2019.11.22-08.30.08:163][  0]LogMemory: Physical Memory: 3234.65 MB used,  13095.34 MB free, 16329.99 MB total
+[2019.11.22-08.30.08:163][  0]LogMemory: Virtual Memory: 4644.29 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2019.11.22-08.30.08:165][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.11.22-08.30.08:187][  0]LogInit: Overriding language with editor language configuration option (en).
+[2019.11.22-08.30.08:187][  0]LogInit: Overriding locale with editor culture configuration option ().
+[2019.11.22-08.30.08:187][  0]LogInit: Using OS detected locale (ru-RU).
+[2019.11.22-08.30.08:361][  0]LogInit: Setting process to per monitor DPI aware
+[2019.11.22-08.30.08:387][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.11.22-08.30.08:387][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.11.22-08.30.08:531][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.11.22-08.30.08:531][  0]LogD3D11RHI: D3D11 adapters:
+[2019.11.22-08.30.08:598][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2019.11.22-08.30.08:598][  0]LogD3D11RHI:       4018/0/8164 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.11.22-08.30.08:600][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.11.22-08.30.08:600][  0]LogD3D11RHI:       0/0/8164 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.11.22-08.30.08:600][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.11.22-08.30.08:605][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.11.22-08.30.08:605][  0]LogD3D11RHI:     GPU DeviceId: 0x1c82 (for the marketing name, search the web for "GPU Device Id")
+[2019.11.22-08.30.08:605][  0]LogWindows: EnumDisplayDevices:
+[2019.11.22-08.30.08:605][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1050 Ti' (P:1 D:1)
+[2019.11.22-08.30.08:605][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2019.11.22-08.30.08:606][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2019.11.22-08.30.08:606][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2019.11.22-08.30.08:606][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.11.22-08.30.08:606][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2019.11.22-08.30.08:606][  0]LogD3D11RHI:   Driver Version: 441.12 (internal:26.21.14.4112, unified:441.12)
+[2019.11.22-08.30.08:606][  0]LogD3D11RHI:      Driver Date: 10-24-2019
+[2019.11.22-08.30.08:606][  0]LogRHI: Texture pool is 2812 MB (70% of 4018 MB)
+[2019.11.22-08.30.08:656][  0]LogD3D11RHI: Async texture creation enabled
+[2019.11.22-08.30.08:674][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.11.22-08.30.08:953][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.11.22-08.30.08:962][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.11.22-08.30.08:971][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.11.22-08.30.08:981][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.11.22-08.30.08:990][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.11.22-08.30.09:000][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.11.22-08.30.09:009][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.11.22-08.30.09:019][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.11.22-08.30.09:023][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.11.22-08.30.09:057][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.11.22-08.30.09:057][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.11.22-08.30.09:057][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.11.22-08.30.09:057][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.11.22-08.30.09:057][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.11.22-08.30.09:057][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.11.22-08.30.09:057][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.11.22-08.30.09:057][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.11.22-08.30.09:057][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.11.22-08.30.09:057][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.11.22-08.30.09:057][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.11.22-08.30.09:057][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.11.22-08.30.09:057][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.11.22-08.30.09:057][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.11.22-08.30.09:057][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.11.22-08.30.09:057][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.11.22-08.30.09:057][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.11.22-08.30.09:057][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.11.22-08.30.09:059][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.11.22-08.30.09:077][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.11.22-08.30.09:077][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.11.22-08.30.09:091][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.11.22-08.30.09:091][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.11.22-08.30.09:098][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.11.22-08.30.09:105][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.11.22-08.30.09:112][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.11.22-08.30.09:120][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.11.22-08.30.09:145][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.11.22-08.30.09:145][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.11.22-08.30.09:145][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.11.22-08.30.09:155][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.11.22-08.30.09:206][  0]LogShaderCompilers: Guid format shader working directory is 36 characters bigger than the processId version (D:/Project/ellipse1/Intermediate/Shaders/WorkingDirectory/2244/).
+[2019.11.22-08.30.09:207][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Миша.Johnvk-PC/AppData/Local/Temp/UnrealShaderWorkingDir/A91964F642ED86BE7B804FAB425CD18F/'.
+[2019.11.22-08.30.09:209][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.11.22-08.30.09:209][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.11.22-08.30.09:209][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.11.22-08.30.09:875][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.11.22-08.30.09:926][  0]LogDerivedDataCache: Loaded boot cache 0.05s 82MB C:/Users/Миша.Johnvk-PC/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.11.22-08.30.09:926][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Миша.Johnvk-PC/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.11.22-08.30.09:926][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Project/ellipse1/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.11.22-08.30.09:926][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.11.22-08.30.09:926][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Project/ellipse1/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.22-08.30.09:926][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.11.22-08.30.09:938][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.11.22-08.30.09:938][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.22-08.30.09:938][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.11.22-08.30.09:939][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Миша.Johnvk-PC/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.11.22-08.30.09:939][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.11.22-08.30.09:939][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.11.22-08.30.09:964][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.11.22-08.30.09:967][  0]LogSlate: Using FreeType 2.6.0
+[2019.11.22-08.30.09:967][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.11.22-08.30.10:021][  0]LogAssetRegistry: FAssetRegistry took 0.0026 seconds to start up
+[2019.11.22-08.30.10:340][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.22-08.30.10:508][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.11.22-08.30.10:508][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.11.22-08.30.10:508][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.11.22-08.30.10:508][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.11.22-08.30.10:508][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.11.22-08.30.10:518][  0]LogNetVersion: ellipse1 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 2516326752)
+[2019.11.22-08.30.10:719][  0]LogClass: Warning: In asset 'None', there is an enum property of type 'EDepthOfFieldMethod' with an invalid value of '('
+[2019.11.22-08.30.10:956][  0]LogPackageLocalizationCache: Processed 15 localized package path(s) for 1 prioritized culture(s) in 0.040305 seconds
+[2019.11.22-08.30.10:963][  0]LogUObjectArray: 43469 objects as part of root set at end of initial load.
+[2019.11.22-08.30.10:963][  0]LogUObjectAllocator: 7553416 out of 0 bytes used by permanent object pool.
+[2019.11.22-08.30.10:963][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.11.22-08.30.11:904][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.11.22-08.30.11:906][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.11.22-08.30.11:958][  0]SourceControl: Source control is disabled
+[2019.11.22-08.30.11:959][  0]SourceControl: Source control is disabled
+[2019.11.22-08.30.11:960][  0]SourceControl: Source control is disabled
+[2019.11.22-08.30.11:961][  0]SourceControl: Source control is disabled
+[2019.11.22-08.30.12:064][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.11.22-08.30.12:193][  0]LogOcInput: OculusInput pre-init called
+[2019.11.22-08.30.12:200][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.11.22-08.30.12:200][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.11.22-08.30.12:278][  0]LogEngine: Initializing Engine...
+[2019.11.22-08.30.12:279][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.11.22-08.30.12:280][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.11.22-08.30.12:535][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.11.22-08.30.12:552][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.11.22-08.30.12:567][  0]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.22-08.30.12:607][  0]LogInit: FAudioDevice initialized.
+[2019.11.22-08.30.12:608][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.11.22-08.30.12:686][  0]LogDerivedDataCache: Saved boot cache 0.08s 82MB C:/Users/Миша.Johnvk-PC/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.11.22-08.30.12:688][  0]LogInit: Texture streaming: Enabled
+[2019.11.22-08.30.12:707][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.11.22-08.30.12:749][  0]LogInit: Transaction tracking system initialized
+[2019.11.22-08.30.12:783][  0]BlueprintLog: New page: Editor Load
+[2019.11.22-08.30.12:866][  0]LocalizationService: Localization service is disabled
+[2019.11.22-08.30.13:130][  0]LogFileCache: Scanning file cache for directory 'D:/Project/ellipse1/Content/' took 0.01s
+[2019.11.22-08.30.13:130][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.11.22-08.30.13:130][  0]LogCook: Display: Mobile HDR setting 1
+[2019.11.22-08.30.13:312][  0]SourceControl: Source control is disabled
+[2019.11.22-08.30.13:312][  0]Cmd: MAP LOAD FILE="D:/Project/ellipse1/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.22-08.30.13:312][  0]LightingResults: New page: Lighting Build
+[2019.11.22-08.30.13:315][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.11.22-08.30.13:316][  0]MapCheck: New page: Map Check
+[2019.11.22-08.30.13:316][  0]LightingResults: New page: Lighting Build
+[2019.11.22-08.30.13:341][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2019.11.22-08.30.13:436][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.11.22-08.30.13:441][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.22-08.30.13:466][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2019.11.22-08.30.13:466][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.22-08.30.13:466][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,104ms to complete.
+[2019.11.22-08.30.13:466][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.154
+[2019.11.22-08.30.13:583][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.22-08.30.13:592][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.22-08.30.13:601][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.22-08.30.13:609][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.22-08.30.13:621][  0]LogCollectionManager: Loaded 0 collections in 0.002162 seconds
+[2019.11.22-08.30.13:642][  0]LogFileCache: Scanning file cache for directory 'D:/Project/ellipse1/Saved/Collections/' took 0.00s
+[2019.11.22-08.30.13:642][  0]LogFileCache: Scanning file cache for directory 'D:/Project/ellipse1/Content/Developers/Миша/Collections/' took 0.00s
+[2019.11.22-08.30.13:642][  0]LogFileCache: Scanning file cache for directory 'D:/Project/ellipse1/Content/Collections/' took 0.00s
+[2019.11.22-08.30.13:642][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2019.11.22-08.30.13:653][  0]LogContentBrowser: Native class hierarchy populated in 0.0095 seconds. Added 3002 classes and 704 folders.
+[2019.11.22-08.30.13:666][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.11.22-08.30.13:790][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.11.22-08.30.13:810][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.11.22-08.30.15:012][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.11.22-08.30.15:054][  0]LogSlate: Took 0.000157 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.11.22-08.30.15:057][  0]LogSlate: Took 0.000134 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.11.22-08.30.15:061][  0]LogSlate: Took 0.000768 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.11.22-08.30.15:125][  0]LogRenderer: Reallocating scene render targets to support 1176x520 Format 10 NumSamples 1 (Frame:1).
+[2019.11.22-08.30.15:217][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.11.22-08.30.15:217][  0]LogLoad: (Engine Initialization) Total time: 7.96 seconds
+[2019.11.22-08.30.15:217][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.11.22-08.30.15:315][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.11.22-08.30.15:353][  0]LogSlate: Took 0.001308 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.22-08.30.15:401][  1]LogAssetRegistry: Asset discovery search completed in 5.3813 seconds
+[2019.11.22-08.30.15:407][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000005 seconds (found 0 objects)
+[2019.11.22-08.30.15:407][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000076 seconds (updated 0 objects)
+[2019.11.22-08.30.16:244][ 96]LogSlate: Took 0.000158 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.22-08.30.17:996][302]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.22-08.30.18:007][302]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.11.22-08.30.18:007][302]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.22-08.30.18:008][302]PIE: New page: PIE session: Minimal_Default (22 нояб. 2019 г., 16:30:18)
+[2019.11.22-08.30.18:009][302]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.11.22-08.30.18:010][302]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.11.22-08.30.18:013][302]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003496s)
+[2019.11.22-08.30.18:015][302]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.11.22-08.30.18:015][302]LogPlayLevel: PIE: World Init took: (0.001092s)
+[2019.11.22-08.30.18:015][302]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.005055s)
+[2019.11.22-08.30.18:037][302]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2019.11.22-08.30.18:048][302]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.22-08.30.18:064][302]LogInit: FAudioDevice initialized.
+[2019.11.22-08.30.18:066][302]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.22-08.30.18:071][302]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.22-08.30.18:099][302]LogLoad: Game class is 'CamED_C'
+[2019.11.22-08.30.18:102][302]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2019.11.22-12.30.18
+[2019.11.22-08.30.18:103][302]LogWorld: Bringing up level for play took: 0.002318
+[2019.11.22-08.30.18:103][302]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2019.11.22-08.30.18:114][302]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.11.22-08.30.18:116][302]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.30.18:116][302]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.11.22-08.30.18:116][302]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.30.18:116][302]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.11.22-08.30.18:116][302]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.30.18:116][302]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[2] invalid
+[2019.11.22-08.30.18:116][302]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.30.18:116][302]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[3] invalid
+[2019.11.22-08.30.18:116][302]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.30.18:116][302]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.11.22-08.30.18:116][302]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.30.18:116][302]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.11.22-08.30.18:116][302]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.30.18:116][302]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[2] invalid
+[2019.11.22-08.30.18:116][302]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.30.18:116][302]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[3] invalid
+[2019.11.22-08.30.18:126][302]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0,992
+[2019.11.22-08.30.18:126][302]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.11.22-08.30.18:152][303]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2019.11.22-08.30.23:214][903]LogBlueprintUserMessages: [Minimal_Default_C_15] wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+[2019.11.22-08.30.25:582][187]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.11.22-08.30.25:583][187]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.22-08.30.25:583][187]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.11.22-08.30.25:594][187]LogSlate: Window 'ellipse1 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.22-08.30.25:598][187]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2019.11.22-08.30.25:605][187]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.22-08.30.25:605][187]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.11.22-08.30.25:635][187]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2019.11.22-08.30.25:682][191]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2019.11.22-08.30.26:746][316]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-08.30.26:831][324]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/StarterContent/Blueprints/MapMove/DefPawnED.DefPawnED
+[2019.11.22-08.30.27:169][324]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2019.11.22-08.30.28:235][324]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/StarterContent/Blueprints/MapMove/CamED.CamED
+[2019.11.22-08.30.28:590][324]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/HUD/Menu2.Menu2
+[2019.11.22-08.30.28:992][324]LogLinker: Warning: Failed to load '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default': Can't resolve asset name
+[2019.11.22-08.30.28:999][324]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/StarterContent/Blueprints/ElipseBP1.ElipseBP1
+[2019.11.22-08.30.29:362][324]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.30.29:362][324]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.11.22-08.30.29:362][324]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.30.29:362][324]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.11.22-08.30.29:362][324]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.30.29:362][324]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[2] invalid
+[2019.11.22-08.30.29:362][324]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.30.29:362][324]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[3] invalid
+[2019.11.22-08.30.29:362][324]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.30.29:362][324]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.11.22-08.30.29:362][324]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.30.29:362][324]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.11.22-08.30.29:362][324]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.30.29:362][324]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[2] invalid
+[2019.11.22-08.30.29:362][324]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.30.29:362][324]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[3] invalid
+[2019.11.22-08.30.29:775][324]LogSlate: Took 0.001130 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.11.22-08.30.29:850][325]LogSlate: Took 0.001285 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.11.22-08.30.35:199][820]LogSlate: Window 'CamED' being destroyed
+[2019.11.22-08.30.36:528][974]LogSlate: Window 'DefPawnED' being destroyed
+[2019.11.22-08.31.05:103][362]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.22-08.31.05:126][362]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.11.22-08.31.05:126][362]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.22-08.31.05:126][362]PIE: New page: PIE session: Minimal_Default (22 нояб. 2019 г., 16:31:05)
+[2019.11.22-08.31.05:127][362]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.11.22-08.31.05:130][362]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003359s)
+[2019.11.22-08.31.05:131][362]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.11.22-08.31.05:131][362]LogPlayLevel: PIE: World Init took: (0.001318s)
+[2019.11.22-08.31.05:131][362]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.004805s)
+[2019.11.22-08.31.05:202][362]LogUObjectHash: Compacting FUObjectHashTables data took   5.83ms
+[2019.11.22-08.31.05:212][362]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.22-08.31.05:227][362]LogInit: FAudioDevice initialized.
+[2019.11.22-08.31.05:233][362]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.22-08.31.05:233][362]LogLoad: Game class is 'CamED_C'
+[2019.11.22-08.31.05:235][362]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2019.11.22-12.31.05
+[2019.11.22-08.31.05:235][362]LogWorld: Bringing up level for play took: 0.001372
+[2019.11.22-08.31.05:235][362]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2019.11.22-08.31.05:238][362]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.05:238][362]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.11.22-08.31.05:238][362]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.05:238][362]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.11.22-08.31.05:238][362]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.05:238][362]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[2] invalid
+[2019.11.22-08.31.05:238][362]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.05:238][362]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[3] invalid
+[2019.11.22-08.31.05:239][362]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.05:239][362]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.11.22-08.31.05:239][362]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.05:239][362]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.11.22-08.31.05:239][362]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.05:239][362]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[2] invalid
+[2019.11.22-08.31.05:239][362]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.05:239][362]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[3] invalid
+[2019.11.22-08.31.05:242][362]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0,108
+[2019.11.22-08.31.05:242][362]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.11.22-08.31.06:584][498]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.11.22-08.31.06:585][498]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.22-08.31.06:585][498]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.11.22-08.31.06:596][498]LogSlate: Window 'ellipse1 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.22-08.31.06:599][498]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2019.11.22-08.31.06:606][498]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.22-08.31.06:606][498]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.11.22-08.31.06:655][498]LogUObjectHash: Compacting FUObjectHashTables data took   4.45ms
+[2019.11.22-08.31.06:686][501]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.11.22-08.31.26:452][815]BlueprintLog: New page: Compile DefPawnED
+[2019.11.22-08.31.26:466][815]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.26:466][815]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.11.22-08.31.26:466][815]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.26:466][815]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.11.22-08.31.26:466][815]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.26:466][815]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[2] invalid
+[2019.11.22-08.31.26:466][815]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.26:466][815]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[3] invalid
+[2019.11.22-08.31.26:467][815]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.26:467][815]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.11.22-08.31.26:467][815]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.26:467][815]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.11.22-08.31.26:467][815]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.26:467][815]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[2] invalid
+[2019.11.22-08.31.26:467][815]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.26:467][815]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[3] invalid
+[2019.11.22-08.31.26:468][815]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.26:468][815]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.11.22-08.31.26:468][815]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.26:468][815]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.11.22-08.31.26:468][815]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.26:468][815]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[2] invalid
+[2019.11.22-08.31.26:468][815]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.26:468][815]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[3] invalid
+[2019.11.22-08.31.26:468][815]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.26:468][815]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.11.22-08.31.26:468][815]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.26:468][815]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.11.22-08.31.26:468][815]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.26:468][815]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[2] invalid
+[2019.11.22-08.31.26:468][815]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.26:468][815]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[3] invalid
+[2019.11.22-08.31.26:468][815]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.26:468][815]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.11.22-08.31.26:468][815]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.26:468][815]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.11.22-08.31.26:468][815]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.26:468][815]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[2] invalid
+[2019.11.22-08.31.26:468][815]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.26:468][815]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[3] invalid
+[2019.11.22-08.31.26:468][815]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.26:468][815]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.11.22-08.31.26:468][815]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.26:468][815]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.11.22-08.31.26:468][815]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.26:468][815]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[2] invalid
+[2019.11.22-08.31.26:468][815]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.26:468][815]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[3] invalid
+[2019.11.22-08.31.26:701][815]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2019.11.22-08.31.26:704][815]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.26:704][815]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.11.22-08.31.26:704][815]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.26:704][815]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.11.22-08.31.26:704][815]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.26:704][815]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[2] invalid
+[2019.11.22-08.31.26:704][815]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.26:704][815]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[3] invalid
+[2019.11.22-08.31.26:704][815]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.26:704][815]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.11.22-08.31.26:704][815]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.26:704][815]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.11.22-08.31.26:704][815]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.26:704][815]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[2] invalid
+[2019.11.22-08.31.26:704][815]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.26:704][815]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[3] invalid
+[2019.11.22-08.31.26:705][815]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.26:705][815]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.11.22-08.31.26:705][815]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.26:705][815]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.11.22-08.31.26:705][815]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.26:705][815]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[2] invalid
+[2019.11.22-08.31.26:705][815]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.26:705][815]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[3] invalid
+[2019.11.22-08.31.26:705][815]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.26:705][815]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.11.22-08.31.26:705][815]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.26:705][815]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.11.22-08.31.26:705][815]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.26:705][815]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[2] invalid
+[2019.11.22-08.31.26:705][815]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.26:705][815]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[3] invalid
+[2019.11.22-08.31.26:705][815]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.26:705][815]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.11.22-08.31.26:705][815]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.26:705][815]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.11.22-08.31.26:706][815]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.26:706][815]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[2] invalid
+[2019.11.22-08.31.26:706][815]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.26:706][815]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[3] invalid
+[2019.11.22-08.31.26:706][815]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.26:706][815]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.11.22-08.31.26:706][815]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.26:706][815]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.11.22-08.31.26:706][815]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.26:706][815]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[2] invalid
+[2019.11.22-08.31.26:706][815]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.26:706][815]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[3] invalid
+[2019.11.22-08.31.26:707][815]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.26:707][815]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.11.22-08.31.26:707][815]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.26:707][815]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.11.22-08.31.26:707][815]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.26:707][815]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[2] invalid
+[2019.11.22-08.31.26:707][815]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.26:707][815]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[3] invalid
+[2019.11.22-08.31.26:707][815]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.26:707][815]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.11.22-08.31.26:707][815]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.26:707][815]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.11.22-08.31.26:707][815]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.26:707][815]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[2] invalid
+[2019.11.22-08.31.26:707][815]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.26:707][815]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[3] invalid
+[2019.11.22-08.31.26:718][815]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.26:718][815]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.11.22-08.31.26:718][815]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.26:718][815]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.11.22-08.31.26:718][815]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.26:718][815]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[2] invalid
+[2019.11.22-08.31.26:718][815]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.26:718][815]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[3] invalid
+[2019.11.22-08.31.26:718][815]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.26:718][815]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.11.22-08.31.26:718][815]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.26:718][815]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.11.22-08.31.26:718][815]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.26:718][815]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[2] invalid
+[2019.11.22-08.31.26:718][815]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.26:718][815]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[3] invalid
+[2019.11.22-08.31.26:719][815]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.26:719][815]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.11.22-08.31.26:719][815]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.26:719][815]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.11.22-08.31.26:719][815]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.26:719][815]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[2] invalid
+[2019.11.22-08.31.26:719][815]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.26:719][815]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[3] invalid
+[2019.11.22-08.31.26:719][815]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.26:719][815]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.11.22-08.31.26:719][815]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.26:719][815]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.11.22-08.31.26:719][815]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.26:719][815]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[2] invalid
+[2019.11.22-08.31.26:719][815]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.26:719][815]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[3] invalid
+[2019.11.22-08.31.26:719][815]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.26:719][815]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.11.22-08.31.26:719][815]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.26:719][815]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.11.22-08.31.26:719][815]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.26:719][815]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[2] invalid
+[2019.11.22-08.31.26:719][815]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.26:719][815]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[3] invalid
+[2019.11.22-08.31.26:719][815]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.26:719][815]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.11.22-08.31.26:719][815]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.26:720][815]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.11.22-08.31.26:720][815]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.26:720][815]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[2] invalid
+[2019.11.22-08.31.26:720][815]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.26:720][815]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[3] invalid
+[2019.11.22-08.31.26:720][815]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.26:720][815]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.11.22-08.31.26:720][815]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.26:720][815]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.11.22-08.31.26:720][815]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.26:720][815]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[2] invalid
+[2019.11.22-08.31.26:720][815]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.26:720][815]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[3] invalid
+[2019.11.22-08.31.26:721][815]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.26:721][815]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.11.22-08.31.26:721][815]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.26:721][815]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.11.22-08.31.26:721][815]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.26:721][815]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[2] invalid
+[2019.11.22-08.31.26:721][815]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.26:721][815]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[3] invalid
+[2019.11.22-08.31.27:095][848]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Blueprints/MapMove/DefPawnED" FILE="D:/Project/ellipse1/Content/StarterContent/Blueprints/MapMove/DefPawnED.uasset" SILENT=true
+[2019.11.22-08.31.27:194][848]LogSavePackage: Moving 'D:/Project/ellipse1/Saved/DefPawnEDE91E7EC74069B15CEFFB59B1C60979EA.tmp' to 'D:/Project/ellipse1/Content/StarterContent/Blueprints/MapMove/DefPawnED.uasset'
+[2019.11.22-08.31.27:816][920]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.22-08.31.27:838][920]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.11.22-08.31.27:838][920]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.22-08.31.27:838][920]PIE: New page: PIE session: Minimal_Default (22 нояб. 2019 г., 16:31:27)
+[2019.11.22-08.31.27:838][920]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.11.22-08.31.27:841][920]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003317s)
+[2019.11.22-08.31.27:842][920]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.11.22-08.31.27:842][920]LogPlayLevel: PIE: World Init took: (0.001003s)
+[2019.11.22-08.31.27:842][920]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.004442s)
+[2019.11.22-08.31.27:882][920]LogUObjectHash: Compacting FUObjectHashTables data took   4.90ms
+[2019.11.22-08.31.27:892][920]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.22-08.31.27:907][920]LogInit: FAudioDevice initialized.
+[2019.11.22-08.31.27:913][920]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.22-08.31.27:913][920]LogLoad: Game class is 'CamED_C'
+[2019.11.22-08.31.27:914][920]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2019.11.22-12.31.27
+[2019.11.22-08.31.27:915][920]LogWorld: Bringing up level for play took: 0.001230
+[2019.11.22-08.31.27:915][920]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2019.11.22-08.31.27:918][920]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.27:918][920]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.11.22-08.31.27:918][920]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.27:918][920]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.11.22-08.31.27:918][920]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.27:918][920]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[2] invalid
+[2019.11.22-08.31.27:918][920]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.27:918][920]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[3] invalid
+[2019.11.22-08.31.27:918][920]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.27:918][920]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.11.22-08.31.27:918][920]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.27:918][920]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.11.22-08.31.27:918][920]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.27:918][920]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[2] invalid
+[2019.11.22-08.31.27:918][920]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.27:918][920]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[3] invalid
+[2019.11.22-08.31.27:921][920]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0,787
+[2019.11.22-08.31.27:921][920]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.11.22-08.31.30:590][238]LogBlueprintUserMessages: [Minimal_Default_C_15] wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+[2019.11.22-08.31.32:283][441]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.11.22-08.31.32:283][441]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.22-08.31.32:283][441]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.11.22-08.31.32:295][441]LogSlate: Window 'ellipse1 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.22-08.31.32:299][441]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2019.11.22-08.31.32:310][441]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.22-08.31.32:310][441]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.11.22-08.31.32:357][441]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2019.11.22-08.31.32:389][444]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.11.22-08.31.35:489][816]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.22-08.31.35:510][816]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.11.22-08.31.35:510][816]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.22-08.31.35:510][816]PIE: New page: PIE session: Minimal_Default (22 нояб. 2019 г., 16:31:35)
+[2019.11.22-08.31.35:511][816]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.11.22-08.31.35:514][816]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003157s)
+[2019.11.22-08.31.35:515][816]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.11.22-08.31.35:515][816]LogPlayLevel: PIE: World Init took: (0.001383s)
+[2019.11.22-08.31.35:515][816]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.004667s)
+[2019.11.22-08.31.35:554][816]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2019.11.22-08.31.35:564][816]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.22-08.31.35:580][816]LogInit: FAudioDevice initialized.
+[2019.11.22-08.31.35:586][816]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.22-08.31.35:586][816]LogLoad: Game class is 'CamED_C'
+[2019.11.22-08.31.35:588][816]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2019.11.22-12.31.35
+[2019.11.22-08.31.35:588][816]LogWorld: Bringing up level for play took: 0.001204
+[2019.11.22-08.31.35:589][816]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2019.11.22-08.31.35:591][816]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.35:591][816]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.11.22-08.31.35:591][816]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.35:591][816]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.11.22-08.31.35:591][816]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.35:591][816]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[2] invalid
+[2019.11.22-08.31.35:591][816]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.35:591][816]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[3] invalid
+[2019.11.22-08.31.35:592][816]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.35:592][816]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.11.22-08.31.35:592][816]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.35:592][816]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.11.22-08.31.35:592][816]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.35:592][816]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[2] invalid
+[2019.11.22-08.31.35:592][816]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.11.22-08.31.35:592][816]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[3] invalid
+[2019.11.22-08.31.35:595][816]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0,461
+[2019.11.22-08.31.35:595][816]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.11.22-08.31.50:638][620]LogBlueprintUserMessages: [Minimal_Default_C_15] wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+[2019.11.22-08.32.01:497][923]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.22-08.32.04:972][340]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.22-08.32.04:972][340]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.11.22-08.32.04:972][340]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.11.22-08.32.04:983][340]LogSlate: Window 'ellipse1 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.22-08.32.04:986][340]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2019.11.22-08.32.04:996][340]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.22-08.32.04:996][340]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.11.22-08.32.05:043][340]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2019.11.22-08.32.05:078][344]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.11.22-08.32.17:232][781]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default
+[2019.11.22-08.32.27:228][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default" FILE="D:/Project/ellipse1/Content/StarterContent/Maps/Minimal_Default.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.11.22-08.32.27:269][922]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2019.11.22-08.32.27:510][922]LogSavePackage: Moving 'D:/Project/ellipse1/Saved/Minimal_Default311C4A0544B10DA872F65CB3E5F29790.tmp' to 'D:/Project/ellipse1/Content/StarterContent/Maps/Minimal_Default.umap'
+[2019.11.22-08.32.27:531][922]LogFileHelpers: Saving map 'Minimal_Default' took 0.304
+[2019.11.22-08.32.29:049][ 99]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Blueprints/MapMove/DefPawnED" FILE="D:/Project/ellipse1/Content/StarterContent/Blueprints/MapMove/DefPawnED.uasset" SILENT=true
+[2019.11.22-08.32.29:091][ 99]LogSavePackage: Moving 'D:/Project/ellipse1/Saved/DefPawnED8471868B46B28B5221AA2B8972276EEC.tmp' to 'D:/Project/ellipse1/Content/StarterContent/Blueprints/MapMove/DefPawnED.uasset'
+[2019.11.22-08.32.49:160][494]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2019.11.22-08.32.49:226][494]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2019.11.22-08.32.49:260][494]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.11.22-08.32.49:260][494]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2019.11.22-08.32.49:301][494]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2019.11.22-08.32.49:315][494]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2019.11.22-08.32.49:345][494]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.11.22-08.32.49:345][494]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2019.11.22-08.32.49:385][494]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2019.11.22-08.32.49:411][494]LogSlate: Window 'ellipse1 - Unreal Editor' being destroyed
+[2019.11.22-08.32.49:412][494]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.11.22-08.32.49:528][495]Cmd: QUIT_EDITOR
+[2019.11.22-08.32.49:975][495]LogExit: Preparing to exit.
+[2019.11.22-08.32.50:006][495]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2019.11.22-08.32.50:010][495]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2019.11.22-08.32.50:013][495]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2019.11.22-08.32.50:059][495]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2019.11.22-08.32.50:065][495]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2019.11.22-08.32.50:065][495]LogExit: Editor shut down
+[2019.11.22-08.32.50:066][495]LogExit: Transaction tracking system shut down
+[2019.11.22-08.32.50:407][495]LogExit: Object subsystem successfully closed.
+[2019.11.22-08.32.50:417][495]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.11.22-08.32.50:445][495]LogModuleManager: Shutting down and abandoning module SequencerWidgets (696)
+[2019.11.22-08.32.50:445][495]LogModuleManager: Shutting down and abandoning module BlueprintGraph (694)
+[2019.11.22-08.32.50:445][495]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (692)
+[2019.11.22-08.32.50:445][495]LogModuleManager: Shutting down and abandoning module Voice (690)
+[2019.11.22-08.32.50:445][495]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (688)
+[2019.11.22-08.32.50:445][495]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (686)
+[2019.11.22-08.32.50:445][495]LogModuleManager: Shutting down and abandoning module SceneOutliner (684)
+[2019.11.22-08.32.50:445][495]LogModuleManager: Shutting down and abandoning module AddContentDialog (682)
+[2019.11.22-08.32.50:446][495]LogModuleManager: Shutting down and abandoning module WidgetCarousel (681)
+[2019.11.22-08.32.50:446][495]LogModuleManager: Shutting down and abandoning module EditorWidgets (678)
+[2019.11.22-08.32.50:446][495]LogModuleManager: Shutting down and abandoning module CollectionManager (676)
+[2019.11.22-08.32.50:446][495]LogModuleManager: Shutting down and abandoning module StatsViewer (674)
+[2019.11.22-08.32.50:446][495]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (672)
+[2019.11.22-08.32.50:446][495]LogModuleManager: Shutting down and abandoning module FoliageEdit (670)
+[2019.11.22-08.32.50:446][495]LogModuleManager: Shutting down and abandoning module LandscapeEditor (668)
+[2019.11.22-08.32.50:446][495]LogModuleManager: Shutting down and abandoning module MeshPaintMode (666)
+[2019.11.22-08.32.50:446][495]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (664)
+[2019.11.22-08.32.50:446][495]LogModuleManager: Shutting down and abandoning module ActorPickerMode (662)
+[2019.11.22-08.32.50:446][495]LogModuleManager: Shutting down and abandoning module GeometryMode (660)
+[2019.11.22-08.32.50:446][495]LogModuleManager: Shutting down and abandoning module TextureAlignMode (658)
+[2019.11.22-08.32.50:446][495]LogModuleManager: Shutting down and abandoning module BspMode (656)
+[2019.11.22-08.32.50:446][495]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (654)
+[2019.11.22-08.32.50:446][495]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (652)
+[2019.11.22-08.32.50:446][495]LogModuleManager: Shutting down and abandoning module AutomationWorker (650)
+[2019.11.22-08.32.50:446][495]LogModuleManager: Shutting down and abandoning module OculusMR (648)
+[2019.11.22-08.32.50:446][495]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (646)
+[2019.11.22-08.32.50:446][495]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (644)
+[2019.11.22-08.32.50:446][495]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (642)
+[2019.11.22-08.32.50:446][495]LogModuleManager: Shutting down and abandoning module PlacementMode (641)
+[2019.11.22-08.32.50:446][495]LogModuleManager: Shutting down and abandoning module MaterialEditor (640)
+[2019.11.22-08.32.50:446][495]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (636)
+[2019.11.22-08.32.50:447][495]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (634)
+[2019.11.22-08.32.50:447][495]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (632)
+[2019.11.22-08.32.50:447][495]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (630)
+[2019.11.22-08.32.50:447][495]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (628)
+[2019.11.22-08.32.50:447][495]LogModuleManager: Shutting down and abandoning module WebMMedia (626)
+[2019.11.22-08.32.50:447][495]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (624)
+[2019.11.22-08.32.50:447][495]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (622)
+[2019.11.22-08.32.50:447][495]LogModuleManager: Shutting down and abandoning module SequenceRecorder (621)
+[2019.11.22-08.32.50:447][495]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (618)
+[2019.11.22-08.32.50:447][495]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (616)
+[2019.11.22-08.32.50:447][495]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (614)
+[2019.11.22-08.32.50:447][495]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (612)
+[2019.11.22-08.32.50:447][495]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (610)
+[2019.11.22-08.32.50:447][495]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (608)
+[2019.11.22-08.32.50:447][495]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (606)
+[2019.11.22-08.32.50:447][495]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (604)
+[2019.11.22-08.32.50:447][495]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (602)
+[2019.11.22-08.32.50:447][495]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (600)
+[2019.11.22-08.32.50:447][495]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (598)
+[2019.11.22-08.32.50:447][495]LogModuleManager: Shutting down and abandoning module CharacterAI (596)
+[2019.11.22-08.32.50:447][495]LogModuleManager: Shutting down and abandoning module SmartSnapping (594)
+[2019.11.22-08.32.50:447][495]LogModuleManager: Shutting down and abandoning module SessionServices (592)
+[2019.11.22-08.32.50:447][495]LogModuleManager: Shutting down and abandoning module MeshPaint (590)
+[2019.11.22-08.32.50:447][495]LogModuleManager: Shutting down and abandoning module ViewportSnapping (588)
+[2019.11.22-08.32.50:447][495]LogModuleManager: Shutting down and abandoning module ViewportInteraction (586)
+[2019.11.22-08.32.50:447][495]LogModuleManager: Shutting down and abandoning module ClothPainter (584)
+[2019.11.22-08.32.50:447][495]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (583)
+[2019.11.22-08.32.50:448][495]LogModuleManager: Shutting down and abandoning module LogVisualizer (580)
+[2019.11.22-08.32.50:448][495]LogModuleManager: Shutting down and abandoning module IntroTutorials (578)
+[2019.11.22-08.32.50:448][495]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (577)
+[2019.11.22-08.32.50:448][495]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (574)
+[2019.11.22-08.32.50:448][495]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (572)
+[2019.11.22-08.32.50:448][495]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (570)
+[2019.11.22-08.32.50:448][495]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (568)
+[2019.11.22-08.32.50:448][495]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (567)
+[2019.11.22-08.32.50:989][495]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (564)
+[2019.11.22-08.32.50:989][495]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (562)
+[2019.11.22-08.32.50:989][495]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (560)
+[2019.11.22-08.32.50:989][495]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (558)
+[2019.11.22-08.32.50:989][495]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (556)
+[2019.11.22-08.32.50:989][495]LogModuleManager: Shutting down and abandoning module InputBindingEditor (554)
+[2019.11.22-08.32.50:989][495]LogModuleManager: Shutting down and abandoning module MergeActors (552)
+[2019.11.22-08.32.50:989][495]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (550)
+[2019.11.22-08.32.50:989][495]LogModuleManager: Shutting down and abandoning module LocalizationService (549)
+[2019.11.22-08.32.50:989][495]LogModuleManager: Shutting down and abandoning module HardwareTargeting (546)
+[2019.11.22-08.32.50:989][495]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (544)
+[2019.11.22-08.32.50:989][495]LogModuleManager: Shutting down and abandoning module UndoHistory (542)
+[2019.11.22-08.32.50:989][495]LogModuleManager: Shutting down and abandoning module XmlParser (540)
+[2019.11.22-08.32.50:989][495]LogModuleManager: Shutting down and abandoning module Blutility (538)
+[2019.11.22-08.32.50:989][495]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (536)
+[2019.11.22-08.32.50:990][495]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (535)
+[2019.11.22-08.32.50:990][495]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (532)
+[2019.11.22-08.32.50:990][495]LogModuleManager: Shutting down and abandoning module SettingsEditor (530)
+[2019.11.22-08.32.50:990][495]LogModuleManager: Shutting down and abandoning module ProjectLauncher (528)
+[2019.11.22-08.32.50:990][495]LogModuleManager: Shutting down and abandoning module SessionFrontend (526)
+[2019.11.22-08.32.50:990][495]LogModuleManager: Shutting down and abandoning module ProfilerClient (524)
+[2019.11.22-08.32.50:990][495]LogModuleManager: Shutting down and abandoning module DeviceManager (522)
+[2019.11.22-08.32.50:990][495]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (521)
+[2019.11.22-08.32.51:034][495]LogModuleManager: Shutting down and abandoning module AutomationController (518)
+[2019.11.22-08.32.51:034][495]LogModuleManager: Shutting down and abandoning module AutomationWindow (516)
+[2019.11.22-08.32.51:034][495]LogModuleManager: Shutting down and abandoning module Layers (514)
+[2019.11.22-08.32.51:034][495]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (512)
+[2019.11.22-08.32.51:034][495]LogModuleManager: Shutting down and abandoning module DetailCustomizations (510)
+[2019.11.22-08.32.51:034][495]LogModuleManager: Shutting down and abandoning module PackagesDialog (508)
+[2019.11.22-08.32.51:034][495]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (506)
+[2019.11.22-08.32.51:034][495]LogModuleManager: Shutting down and abandoning module Persona (504)
+[2019.11.22-08.32.51:034][495]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (503)
+[2019.11.22-08.32.51:034][495]LogModuleManager: Shutting down and abandoning module AnimGraph (501)
+[2019.11.22-08.32.51:034][495]LogModuleManager: Shutting down and abandoning module Kismet (498)
+[2019.11.22-08.32.51:039][495]LogModuleManager: Shutting down and abandoning module KismetWidgets (497)
+[2019.11.22-08.32.51:039][495]LogModuleManager: Shutting down and abandoning module GraphEditor (494)
+[2019.11.22-08.32.51:039][495]LogModuleManager: Shutting down and abandoning module StructViewer (492)
+[2019.11.22-08.32.51:039][495]LogModuleManager: Shutting down and abandoning module ClassViewer (490)
+[2019.11.22-08.32.51:039][495]LogModuleManager: Shutting down and abandoning module Toolbox (488)
+[2019.11.22-08.32.51:039][495]LogModuleManager: Shutting down and abandoning module ModuleUI (486)
+[2019.11.22-08.32.51:039][495]LogModuleManager: Shutting down and abandoning module MovieSceneTools (484)
+[2019.11.22-08.32.51:039][495]LogModuleManager: Shutting down and abandoning module OutputLog (482)
+[2019.11.22-08.32.51:039][495]LogModuleManager: Shutting down and abandoning module GammaUI (480)
+[2019.11.22-08.32.51:039][495]LogModuleManager: Shutting down and abandoning module Documentation (478)
+[2019.11.22-08.32.51:039][495]LogModuleManager: Shutting down and abandoning module LiveCoding (476)
+[2019.11.22-08.32.51:039][495]LogModuleManager: Shutting down and abandoning module LevelSequence (474)
+[2019.11.22-08.32.51:039][495]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (472)
+[2019.11.22-08.32.51:039][495]LogModuleManager: Shutting down and abandoning module MovieScene (470)
+[2019.11.22-08.32.51:039][495]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (468)
+[2019.11.22-08.32.51:039][495]LogModuleManager: Shutting down and abandoning module LauncherPlatform (466)
+[2019.11.22-08.32.51:039][495]LogModuleManager: Shutting down and abandoning module AnalyticsET (464)
+[2019.11.22-08.32.51:039][495]LogModuleManager: Shutting down and abandoning module PortalServices (462)
+[2019.11.22-08.32.51:039][495]LogModuleManager: Shutting down and abandoning module PortalRpc (460)
+[2019.11.22-08.32.51:039][495]LogModuleManager: Shutting down and abandoning module MessagingRpc (458)
+[2019.11.22-08.32.51:039][495]LogModuleManager: Shutting down and abandoning module AIModule (456)
+[2019.11.22-08.32.51:040][495]LogModuleManager: Shutting down and abandoning module GameplayDebugger (455)
+[2019.11.22-08.32.51:040][495]LogModuleManager: Shutting down and abandoning module AITestSuite (453)
+[2019.11.22-08.32.51:040][495]LogModuleManager: Shutting down and abandoning module NavigationSystem (451)
+[2019.11.22-08.32.51:040][495]LogModuleManager: Shutting down and abandoning module DesktopPlatform (448)
+[2019.11.22-08.32.51:040][495]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (446)
+[2019.11.22-08.32.51:042][495]LogModuleManager: Shutting down and abandoning module ProfilerService (444)
+[2019.11.22-08.32.51:179][495]LogModuleManager: Shutting down and abandoning module TaskGraph (442)
+[2019.11.22-08.32.51:179][495]LogModuleManager: Shutting down and abandoning module ScreenshotTools (440)
+[2019.11.22-08.32.51:179][495]LogModuleManager: Shutting down and abandoning module SteamVRController (438)
+[2019.11.22-08.32.51:179][495]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (436)
+[2019.11.22-08.32.51:179][495]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (434)
+[2019.11.22-08.32.51:179][495]LogModuleManager: Shutting down and abandoning module OculusEditor (432)
+[2019.11.22-08.32.51:179][495]LogModuleManager: Shutting down and abandoning module OculusInput (430)
+[2019.11.22-08.32.51:179][495]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (428)
+[2019.11.22-08.32.51:179][495]LogModuleManager: Shutting down and abandoning module EditableMesh (426)
+[2019.11.22-08.32.51:179][495]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (424)
+[2019.11.22-08.32.51:179][495]LogModuleManager: Shutting down and abandoning module CableComponent (422)
+[2019.11.22-08.32.51:179][495]LogModuleManager: Shutting down and abandoning module AudioCapture (420)
+[2019.11.22-08.32.51:179][495]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (418)
+[2019.11.22-08.32.51:179][495]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (416)
+[2019.11.22-08.32.51:179][495]LogModuleManager: Shutting down and abandoning module AppleImageUtils (414)
+[2019.11.22-08.32.51:179][495]LogModuleManager: Shutting down and abandoning module AndroidPermission (412)
+[2019.11.22-08.32.51:179][495]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (410)
+[2019.11.22-08.32.51:179][495]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (408)
+[2019.11.22-08.32.51:179][495]LogModuleManager: Shutting down and abandoning module MediaCompositing (406)
+[2019.11.22-08.32.51:179][495]LogModuleManager: Shutting down and abandoning module ImgMedia (404)
+[2019.11.22-08.32.51:179][495]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (402)
+[2019.11.22-08.32.51:179][495]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (400)
+[2019.11.22-08.32.51:179][495]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (398)
+[2019.11.22-08.32.51:179][495]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (396)
+[2019.11.22-08.32.51:180][495]LogModuleManager: Shutting down and abandoning module HoudiniNiagaraEditor (394)
+[2019.11.22-08.32.51:180][495]LogModuleManager: Shutting down and abandoning module HoudiniNiagara (392)
+[2019.11.22-08.32.51:180][495]LogModuleManager: Shutting down and abandoning module HTML5Networking (390)
+[2019.11.22-08.32.51:180][495]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (388)
+[2019.11.22-08.32.51:180][495]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (386)
+[2019.11.22-08.32.51:180][495]LogModuleManager: Shutting down and abandoning module BackChannel (384)
+[2019.11.22-08.32.51:180][495]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (382)
+[2019.11.22-08.32.51:180][495]LogModuleManager: Shutting down and abandoning module AutomationUtils (380)
+[2019.11.22-08.32.51:180][495]LogModuleManager: Shutting down and abandoning module AlembicImporter (378)
+[2019.11.22-08.32.51:180][495]LogModuleManager: Shutting down and abandoning module AlembicLibrary (377)
+[2019.11.22-08.32.51:180][495]LogModuleManager: Shutting down and abandoning module GeometryCache (376)
+[2019.11.22-08.32.51:180][495]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (375)
+[2019.11.22-08.32.51:180][495]LogModuleManager: Shutting down and abandoning module VariantManagerContent (370)
+[2019.11.22-08.32.51:180][495]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (368)
+[2019.11.22-08.32.51:180][495]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (366)
+[2019.11.22-08.32.51:181][495]LogModuleManager: Shutting down and abandoning module PluginBrowser (364)
+[2019.11.22-08.32.51:181][495]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (362)
+[2019.11.22-08.32.51:181][495]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (360)
+[2019.11.22-08.32.51:181][495]LogModuleManager: Shutting down and abandoning module CurveEditorTools (358)
+[2019.11.22-08.32.51:181][495]LogModuleManager: Shutting down and abandoning module CurveEditor (357)
+[2019.11.22-08.32.51:181][495]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (354)
+[2019.11.22-08.32.51:181][495]LogModuleManager: Shutting down and abandoning module CryptoKeys (352)
+[2019.11.22-08.32.51:181][495]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (350)
+[2019.11.22-08.32.51:181][495]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (348)
+[2019.11.22-08.32.51:181][495]LogModuleManager: Shutting down and abandoning module UObjectPlugin (346)
+[2019.11.22-08.32.51:181][495]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (344)
+[2019.11.22-08.32.51:181][495]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (342)
+[2019.11.22-08.32.51:181][495]LogModuleManager: Shutting down and abandoning module GitSourceControl (340)
+[2019.11.22-08.32.51:181][495]LogModuleManager: Shutting down and abandoning module SourceControl (339)
+[2019.11.22-08.32.51:181][495]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (336)
+[2019.11.22-08.32.51:181][495]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (334)
+[2019.11.22-08.32.51:181][495]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (332)
+[2019.11.22-08.32.51:181][495]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (330)
+[2019.11.22-08.32.51:181][495]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (328)
+[2019.11.22-08.32.51:181][495]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (326)
+[2019.11.22-08.32.51:181][495]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (324)
+[2019.11.22-08.32.51:181][495]LogModuleManager: Shutting down and abandoning module Paper2DEditor (322)
+[2019.11.22-08.32.51:181][495]LogModuleManager: Shutting down and abandoning module SignificanceManager (320)
+[2019.11.22-08.32.51:181][495]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (318)
+[2019.11.22-08.32.51:181][495]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (316)
+[2019.11.22-08.32.51:181][495]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (312)
+[2019.11.22-08.32.51:181][495]LogModuleManager: Shutting down and abandoning module ActorSequence (310)
+[2019.11.22-08.32.51:181][495]LogModuleManager: Shutting down and abandoning module UdpMessaging (308)
