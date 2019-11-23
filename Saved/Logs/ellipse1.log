@@ -648,3 +648,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.23-15.23.47:564][162]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
 [2019.11.23-15.23.47:699][162]SourceControl: Error: Updated 0 paths from the index
 [2019.11.23-15.23.47:791][162]SourceControl: rm 'Content/StarterContent/Track2_0/trail22White.uasset'
+[2019.11.23-15.24.06:007][825]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
